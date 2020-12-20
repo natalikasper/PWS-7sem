@@ -1,0 +1,20 @@
+E:\Program Files\PWS\PWS_4\PWS_4_Proxy\bin\Debug\PWS_4_Proxy.exe.config
+E:\Program Files\PWS\PWS_4\PWS_4_Proxy\bin\Debug\PWS_4_Proxy.exe
+E:\Program Files\PWS\PWS_4\PWS_4_Proxy\bin\Debug\PWS_4_Proxy.pdb
+E:\Program Files\PWS\PWS_4\PWS_4_Proxy\obj\Debug\PWS_4_Proxy.csprojAssemblyReference.cache
+E:\Program Files\PWS\PWS_4\PWS_4_Proxy\obj\Debug\PWS_4_Proxy.Form1.resources
+E:\Program Files\PWS\PWS_4\PWS_4_Proxy\obj\Debug\PWS_4_Proxy.Properties.Resources.resources
+E:\Program Files\PWS\PWS_4\PWS_4_Proxy\obj\Debug\PWS_4_Proxy.csproj.GenerateResource.cache
+E:\Program Files\PWS\PWS_4\PWS_4_Proxy\obj\Debug\PWS_4_Proxy.csproj.CoreCompileInputs.cache
+E:\Program Files\PWS\PWS_4\PWS_4_Proxy\obj\Debug\PWS_4_Proxy.exe
+E:\Program Files\PWS\PWS_4\PWS_4_Proxy\obj\Debug\PWS_4_Proxy.pdb
+D:\7sem\PWS\PWS_4\PWS_4_Proxy\bin\Debug\PWS_4_Proxy.exe.config
+D:\7sem\PWS\PWS_4\PWS_4_Proxy\bin\Debug\PWS_4_Proxy.exe
+D:\7sem\PWS\PWS_4\PWS_4_Proxy\bin\Debug\PWS_4_Proxy.pdb
+D:\7sem\PWS\PWS_4\PWS_4_Proxy\obj\Debug\PWS_4_Proxy.csprojAssemblyReference.cache
+D:\7sem\PWS\PWS_4\PWS_4_Proxy\obj\Debug\PWS_4_Proxy.Form1.resources
+D:\7sem\PWS\PWS_4\PWS_4_Proxy\obj\Debug\PWS_4_Proxy.Properties.Resources.resources
+D:\7sem\PWS\PWS_4\PWS_4_Proxy\obj\Debug\PWS_4_Proxy.csproj.GenerateResource.cache
+D:\7sem\PWS\PWS_4\PWS_4_Proxy\obj\Debug\PWS_4_Proxy.csproj.CoreCompileInputs.cache
+D:\7sem\PWS\PWS_4\PWS_4_Proxy\obj\Debug\PWS_4_Proxy.exe
+D:\7sem\PWS\PWS_4\PWS_4_Proxy\obj\Debug\PWS_4_Proxy.pdb

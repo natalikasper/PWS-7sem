@@ -1,0 +1,40 @@
+E:\study4course\PWS\PWS\PWS_4\PWS_4_WinForm\bin\Debug\PWS_4_WinForm.exe.config
+E:\study4course\PWS\PWS\PWS_4\PWS_4_WinForm\bin\Debug\PWS_4_WinForm.exe
+E:\study4course\PWS\PWS\PWS_4\PWS_4_WinForm\bin\Debug\PWS_4_WinForm.pdb
+E:\study4course\PWS\PWS\PWS_4\PWS_4_WinForm\obj\Debug\PWS_4_WinForm.csprojAssemblyReference.cache
+E:\study4course\PWS\PWS\PWS_4\PWS_4_WinForm\obj\Debug\PWS_4_WinForm.Form1.resources
+E:\study4course\PWS\PWS\PWS_4\PWS_4_WinForm\obj\Debug\PWS_4_WinForm.Properties.Resources.resources
+E:\study4course\PWS\PWS\PWS_4\PWS_4_WinForm\obj\Debug\PWS_4_WinForm.csproj.GenerateResource.cache
+E:\study4course\PWS\PWS\PWS_4\PWS_4_WinForm\obj\Debug\PWS_4_WinForm.csproj.CoreCompileInputs.cache
+E:\study4course\PWS\PWS\PWS_4\PWS_4_WinForm\obj\Debug\PWS_4_WinForm.exe
+E:\study4course\PWS\PWS\PWS_4\PWS_4_WinForm\obj\Debug\PWS_4_WinForm.pdb
+C:\Users\Vokamrecom-PC\Desktop\PWS_4\PWS_4_WinForm\bin\Debug\PWS_4_WinForm.exe.config
+C:\Users\Vokamrecom-PC\Desktop\PWS_4\PWS_4_WinForm\bin\Debug\PWS_4_WinForm.exe
+C:\Users\Vokamrecom-PC\Desktop\PWS_4\PWS_4_WinForm\bin\Debug\PWS_4_WinForm.pdb
+C:\Users\Vokamrecom-PC\Desktop\PWS_4\PWS_4_WinForm\obj\Debug\PWS_4_WinForm.csprojAssemblyReference.cache
+C:\Users\Vokamrecom-PC\Desktop\PWS_4\PWS_4_WinForm\obj\Debug\PWS_4_WinForm.Form1.resources
+C:\Users\Vokamrecom-PC\Desktop\PWS_4\PWS_4_WinForm\obj\Debug\PWS_4_WinForm.Properties.Resources.resources
+C:\Users\Vokamrecom-PC\Desktop\PWS_4\PWS_4_WinForm\obj\Debug\PWS_4_WinForm.csproj.GenerateResource.cache
+C:\Users\Vokamrecom-PC\Desktop\PWS_4\PWS_4_WinForm\obj\Debug\PWS_4_WinForm.csproj.CoreCompileInputs.cache
+C:\Users\Vokamrecom-PC\Desktop\PWS_4\PWS_4_WinForm\obj\Debug\PWS_4_WinForm.exe
+C:\Users\Vokamrecom-PC\Desktop\PWS_4\PWS_4_WinForm\obj\Debug\PWS_4_WinForm.pdb
+E:\Program Files\PWS\PWS_4\PWS_4_WinForm\bin\Debug\PWS_4_WinForm.exe.config
+E:\Program Files\PWS\PWS_4\PWS_4_WinForm\bin\Debug\PWS_4_WinForm.exe
+E:\Program Files\PWS\PWS_4\PWS_4_WinForm\bin\Debug\PWS_4_WinForm.pdb
+E:\Program Files\PWS\PWS_4\PWS_4_WinForm\obj\Debug\PWS_4_WinForm.csprojAssemblyReference.cache
+E:\Program Files\PWS\PWS_4\PWS_4_WinForm\obj\Debug\PWS_4_WinForm.Form1.resources
+E:\Program Files\PWS\PWS_4\PWS_4_WinForm\obj\Debug\PWS_4_WinForm.Properties.Resources.resources
+E:\Program Files\PWS\PWS_4\PWS_4_WinForm\obj\Debug\PWS_4_WinForm.csproj.GenerateResource.cache
+E:\Program Files\PWS\PWS_4\PWS_4_WinForm\obj\Debug\PWS_4_WinForm.csproj.CoreCompileInputs.cache
+E:\Program Files\PWS\PWS_4\PWS_4_WinForm\obj\Debug\PWS_4_WinForm.exe
+E:\Program Files\PWS\PWS_4\PWS_4_WinForm\obj\Debug\PWS_4_WinForm.pdb
+D:\7sem\PWS\PWS_4\PWS_4_WinForm\bin\Debug\PWS_4_WinForm.exe.config
+D:\7sem\PWS\PWS_4\PWS_4_WinForm\bin\Debug\PWS_4_WinForm.exe
+D:\7sem\PWS\PWS_4\PWS_4_WinForm\bin\Debug\PWS_4_WinForm.pdb
+D:\7sem\PWS\PWS_4\PWS_4_WinForm\obj\Debug\PWS_4_WinForm.csprojAssemblyReference.cache
+D:\7sem\PWS\PWS_4\PWS_4_WinForm\obj\Debug\PWS_4_WinForm.Form1.resources
+D:\7sem\PWS\PWS_4\PWS_4_WinForm\obj\Debug\PWS_4_WinForm.Properties.Resources.resources
+D:\7sem\PWS\PWS_4\PWS_4_WinForm\obj\Debug\PWS_4_WinForm.csproj.GenerateResource.cache
+D:\7sem\PWS\PWS_4\PWS_4_WinForm\obj\Debug\PWS_4_WinForm.csproj.CoreCompileInputs.cache
+D:\7sem\PWS\PWS_4\PWS_4_WinForm\obj\Debug\PWS_4_WinForm.exe
+D:\7sem\PWS\PWS_4\PWS_4_WinForm\obj\Debug\PWS_4_WinForm.pdb

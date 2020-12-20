@@ -1,0 +1,415 @@
+D:\Studying_orig\7\ПW-С\PWS_6\PWS_6_Client\bin\Debug\PWS_6_Client.exe.config
+D:\Studying_orig\7\ПW-С\PWS_6\PWS_6_Client\bin\Debug\PWS_6_Client.exe
+D:\Studying_orig\7\ПW-С\PWS_6\PWS_6_Client\bin\Debug\PWS_6_Client.pdb
+D:\Studying_orig\7\ПW-С\PWS_6\PWS_6_Client\bin\Debug\EntityFramework.dll
+D:\Studying_orig\7\ПW-С\PWS_6\PWS_6_Client\bin\Debug\EntityFramework.SqlServer.dll
+D:\Studying_orig\7\ПW-С\PWS_6\PWS_6_Client\bin\Debug\Microsoft.Data.Edm.dll
+D:\Studying_orig\7\ПW-С\PWS_6\PWS_6_Client\bin\Debug\Microsoft.Data.OData.dll
+D:\Studying_orig\7\ПW-С\PWS_6\PWS_6_Client\bin\Debug\Microsoft.Data.Services.Client.dll
+D:\Studying_orig\7\ПW-С\PWS_6\PWS_6_Client\bin\Debug\PWS_6.dll
+D:\Studying_orig\7\ПW-С\PWS_6\PWS_6_Client\bin\Debug\System.ComponentModel.Annotations.dll
+D:\Studying_orig\7\ПW-С\PWS_6\PWS_6_Client\bin\Debug\System.Spatial.dll
+D:\Studying_orig\7\ПW-С\PWS_6\PWS_6_Client\bin\Debug\System.ValueTuple.dll
+D:\Studying_orig\7\ПW-С\PWS_6\PWS_6_Client\bin\Debug\System.Web.Optimization.dll
+D:\Studying_orig\7\ПW-С\PWS_6\PWS_6_Client\bin\Debug\System.Web.Mvc.dll
+D:\Studying_orig\7\ПW-С\PWS_6\PWS_6_Client\bin\Debug\Microsoft.OData.EntityFrameworkProvider.dll
+D:\Studying_orig\7\ПW-С\PWS_6\PWS_6_Client\bin\Debug\Microsoft.Data.Services.dll
+D:\Studying_orig\7\ПW-С\PWS_6\PWS_6_Client\bin\Debug\WebGrease.dll
+D:\Studying_orig\7\ПW-С\PWS_6\PWS_6_Client\bin\Debug\Microsoft.Web.Infrastructure.dll
+D:\Studying_orig\7\ПW-С\PWS_6\PWS_6_Client\bin\Debug\System.Web.WebPages.dll
+D:\Studying_orig\7\ПW-С\PWS_6\PWS_6_Client\bin\Debug\System.Web.WebPages.Razor.dll
+D:\Studying_orig\7\ПW-С\PWS_6\PWS_6_Client\bin\Debug\System.Web.Razor.dll
+D:\Studying_orig\7\ПW-С\PWS_6\PWS_6_Client\bin\Debug\Antlr3.Runtime.dll
+D:\Studying_orig\7\ПW-С\PWS_6\PWS_6_Client\bin\Debug\Newtonsoft.Json.dll
+D:\Studying_orig\7\ПW-С\PWS_6\PWS_6_Client\bin\Debug\System.Web.WebPages.Deployment.dll
+D:\Studying_orig\7\ПW-С\PWS_6\PWS_6_Client\bin\Debug\PWS_6.pdb
+D:\Studying_orig\7\ПW-С\PWS_6\PWS_6_Client\bin\Debug\PWS_6.dll.config
+D:\Studying_orig\7\ПW-С\PWS_6\PWS_6_Client\bin\Debug\EntityFramework.xml
+D:\Studying_orig\7\ПW-С\PWS_6\PWS_6_Client\bin\Debug\EntityFramework.SqlServer.xml
+D:\Studying_orig\7\ПW-С\PWS_6\PWS_6_Client\bin\Debug\Microsoft.Data.Edm.xml
+D:\Studying_orig\7\ПW-С\PWS_6\PWS_6_Client\bin\Debug\Microsoft.Data.OData.xml
+D:\Studying_orig\7\ПW-С\PWS_6\PWS_6_Client\bin\Debug\Microsoft.Data.Services.Client.xml
+D:\Studying_orig\7\ПW-С\PWS_6\PWS_6_Client\bin\Debug\System.Spatial.xml
+D:\Studying_orig\7\ПW-С\PWS_6\PWS_6_Client\bin\Debug\System.ValueTuple.xml
+D:\Studying_orig\7\ПW-С\PWS_6\PWS_6_Client\bin\Debug\System.Web.Optimization.xml
+D:\Studying_orig\7\ПW-С\PWS_6\PWS_6_Client\bin\Debug\System.Web.Mvc.xml
+D:\Studying_orig\7\ПW-С\PWS_6\PWS_6_Client\bin\Debug\Microsoft.OData.EntityFrameworkProvider.xml
+D:\Studying_orig\7\ПW-С\PWS_6\PWS_6_Client\bin\Debug\Microsoft.Data.Services.xml
+D:\Studying_orig\7\ПW-С\PWS_6\PWS_6_Client\bin\Debug\System.Web.WebPages.xml
+D:\Studying_orig\7\ПW-С\PWS_6\PWS_6_Client\bin\Debug\System.Web.WebPages.Razor.xml
+D:\Studying_orig\7\ПW-С\PWS_6\PWS_6_Client\bin\Debug\System.Web.Razor.xml
+D:\Studying_orig\7\ПW-С\PWS_6\PWS_6_Client\bin\Debug\Antlr3.Runtime.pdb
+D:\Studying_orig\7\ПW-С\PWS_6\PWS_6_Client\bin\Debug\Newtonsoft.Json.xml
+D:\Studying_orig\7\ПW-С\PWS_6\PWS_6_Client\bin\Debug\System.Web.WebPages.Deployment.xml
+D:\Studying_orig\7\ПW-С\PWS_6\PWS_6_Client\bin\Debug\ru\EntityFramework.resources.dll
+D:\Studying_orig\7\ПW-С\PWS_6\PWS_6_Client\bin\Debug\ru\EntityFramework.SqlServer.resources.dll
+D:\Studying_orig\7\ПW-С\PWS_6\PWS_6_Client\bin\Debug\de\Microsoft.Data.Edm.resources.dll
+D:\Studying_orig\7\ПW-С\PWS_6\PWS_6_Client\bin\Debug\es\Microsoft.Data.Edm.resources.dll
+D:\Studying_orig\7\ПW-С\PWS_6\PWS_6_Client\bin\Debug\fr\Microsoft.Data.Edm.resources.dll
+D:\Studying_orig\7\ПW-С\PWS_6\PWS_6_Client\bin\Debug\it\Microsoft.Data.Edm.resources.dll
+D:\Studying_orig\7\ПW-С\PWS_6\PWS_6_Client\bin\Debug\ja\Microsoft.Data.Edm.resources.dll
+D:\Studying_orig\7\ПW-С\PWS_6\PWS_6_Client\bin\Debug\ko\Microsoft.Data.Edm.resources.dll
+D:\Studying_orig\7\ПW-С\PWS_6\PWS_6_Client\bin\Debug\ru\Microsoft.Data.Edm.resources.dll
+D:\Studying_orig\7\ПW-С\PWS_6\PWS_6_Client\bin\Debug\zh-Hans\Microsoft.Data.Edm.resources.dll
+D:\Studying_orig\7\ПW-С\PWS_6\PWS_6_Client\bin\Debug\zh-Hant\Microsoft.Data.Edm.resources.dll
+D:\Studying_orig\7\ПW-С\PWS_6\PWS_6_Client\bin\Debug\de\Microsoft.Data.OData.resources.dll
+D:\Studying_orig\7\ПW-С\PWS_6\PWS_6_Client\bin\Debug\es\Microsoft.Data.OData.resources.dll
+D:\Studying_orig\7\ПW-С\PWS_6\PWS_6_Client\bin\Debug\fr\Microsoft.Data.OData.resources.dll
+D:\Studying_orig\7\ПW-С\PWS_6\PWS_6_Client\bin\Debug\it\Microsoft.Data.OData.resources.dll
+D:\Studying_orig\7\ПW-С\PWS_6\PWS_6_Client\bin\Debug\ja\Microsoft.Data.OData.resources.dll
+D:\Studying_orig\7\ПW-С\PWS_6\PWS_6_Client\bin\Debug\ko\Microsoft.Data.OData.resources.dll
+D:\Studying_orig\7\ПW-С\PWS_6\PWS_6_Client\bin\Debug\ru\Microsoft.Data.OData.resources.dll
+D:\Studying_orig\7\ПW-С\PWS_6\PWS_6_Client\bin\Debug\zh-Hans\Microsoft.Data.OData.resources.dll
+D:\Studying_orig\7\ПW-С\PWS_6\PWS_6_Client\bin\Debug\zh-Hant\Microsoft.Data.OData.resources.dll
+D:\Studying_orig\7\ПW-С\PWS_6\PWS_6_Client\bin\Debug\de\Microsoft.Data.Services.Client.resources.dll
+D:\Studying_orig\7\ПW-С\PWS_6\PWS_6_Client\bin\Debug\es\Microsoft.Data.Services.Client.resources.dll
+D:\Studying_orig\7\ПW-С\PWS_6\PWS_6_Client\bin\Debug\fr\Microsoft.Data.Services.Client.resources.dll
+D:\Studying_orig\7\ПW-С\PWS_6\PWS_6_Client\bin\Debug\it\Microsoft.Data.Services.Client.resources.dll
+D:\Studying_orig\7\ПW-С\PWS_6\PWS_6_Client\bin\Debug\ja\Microsoft.Data.Services.Client.resources.dll
+D:\Studying_orig\7\ПW-С\PWS_6\PWS_6_Client\bin\Debug\ko\Microsoft.Data.Services.Client.resources.dll
+D:\Studying_orig\7\ПW-С\PWS_6\PWS_6_Client\bin\Debug\ru\Microsoft.Data.Services.Client.resources.dll
+D:\Studying_orig\7\ПW-С\PWS_6\PWS_6_Client\bin\Debug\zh-Hans\Microsoft.Data.Services.Client.resources.dll
+D:\Studying_orig\7\ПW-С\PWS_6\PWS_6_Client\bin\Debug\zh-Hant\Microsoft.Data.Services.Client.resources.dll
+D:\Studying_orig\7\ПW-С\PWS_6\PWS_6_Client\bin\Debug\de\System.Spatial.resources.dll
+D:\Studying_orig\7\ПW-С\PWS_6\PWS_6_Client\bin\Debug\es\System.Spatial.resources.dll
+D:\Studying_orig\7\ПW-С\PWS_6\PWS_6_Client\bin\Debug\fr\System.Spatial.resources.dll
+D:\Studying_orig\7\ПW-С\PWS_6\PWS_6_Client\bin\Debug\it\System.Spatial.resources.dll
+D:\Studying_orig\7\ПW-С\PWS_6\PWS_6_Client\bin\Debug\ja\System.Spatial.resources.dll
+D:\Studying_orig\7\ПW-С\PWS_6\PWS_6_Client\bin\Debug\ko\System.Spatial.resources.dll
+D:\Studying_orig\7\ПW-С\PWS_6\PWS_6_Client\bin\Debug\ru\System.Spatial.resources.dll
+D:\Studying_orig\7\ПW-С\PWS_6\PWS_6_Client\bin\Debug\zh-Hans\System.Spatial.resources.dll
+D:\Studying_orig\7\ПW-С\PWS_6\PWS_6_Client\bin\Debug\zh-Hant\System.Spatial.resources.dll
+D:\Studying_orig\7\ПW-С\PWS_6\PWS_6_Client\bin\Debug\ru\System.Web.Optimization.resources.dll
+D:\Studying_orig\7\ПW-С\PWS_6\PWS_6_Client\bin\Debug\ru\System.Web.Mvc.resources.dll
+D:\Studying_orig\7\ПW-С\PWS_6\PWS_6_Client\bin\Debug\de\Microsoft.Data.Services.resources.dll
+D:\Studying_orig\7\ПW-С\PWS_6\PWS_6_Client\bin\Debug\es\Microsoft.Data.Services.resources.dll
+D:\Studying_orig\7\ПW-С\PWS_6\PWS_6_Client\bin\Debug\fr\Microsoft.Data.Services.resources.dll
+D:\Studying_orig\7\ПW-С\PWS_6\PWS_6_Client\bin\Debug\it\Microsoft.Data.Services.resources.dll
+D:\Studying_orig\7\ПW-С\PWS_6\PWS_6_Client\bin\Debug\ja\Microsoft.Data.Services.resources.dll
+D:\Studying_orig\7\ПW-С\PWS_6\PWS_6_Client\bin\Debug\ko\Microsoft.Data.Services.resources.dll
+D:\Studying_orig\7\ПW-С\PWS_6\PWS_6_Client\bin\Debug\ru\Microsoft.Data.Services.resources.dll
+D:\Studying_orig\7\ПW-С\PWS_6\PWS_6_Client\bin\Debug\zh-Hans\Microsoft.Data.Services.resources.dll
+D:\Studying_orig\7\ПW-С\PWS_6\PWS_6_Client\bin\Debug\zh-Hant\Microsoft.Data.Services.resources.dll
+D:\Studying_orig\7\ПW-С\PWS_6\PWS_6_Client\bin\Debug\ru\System.Web.WebPages.resources.dll
+D:\Studying_orig\7\ПW-С\PWS_6\PWS_6_Client\bin\Debug\ru\System.Web.WebPages.Razor.resources.dll
+D:\Studying_orig\7\ПW-С\PWS_6\PWS_6_Client\bin\Debug\ru\System.Web.Razor.resources.dll
+D:\Studying_orig\7\ПW-С\PWS_6\PWS_6_Client\bin\Debug\ru\System.Web.WebPages.Deployment.resources.dll
+D:\Studying_orig\7\ПW-С\PWS_6\PWS_6_Client\obj\Debug\PWS_6_Client.csprojAssemblyReference.cache
+D:\Studying_orig\7\ПW-С\PWS_6\PWS_6_Client\obj\Debug\PWS_6_Client.Form1.resources
+D:\Studying_orig\7\ПW-С\PWS_6\PWS_6_Client\obj\Debug\PWS_6_Client.Properties.Resources.resources
+D:\Studying_orig\7\ПW-С\PWS_6\PWS_6_Client\obj\Debug\PWS_6_Client.csproj.GenerateResource.cache
+D:\Studying_orig\7\ПW-С\PWS_6\PWS_6_Client\obj\Debug\PWS_6_Client.csproj.CopyComplete
+D:\Studying_orig\7\ПW-С\PWS_6\PWS_6_Client\obj\Debug\PWS_6_Client.exe
+D:\Studying_orig\7\ПW-С\PWS_6\PWS_6_Client\obj\Debug\PWS_6_Client.pdb
+D:\Кирилл\Универ\ПW-С\PWS_6\PWS_6_Client\bin\Debug\PWS_6_Client.exe.config
+D:\Кирилл\Универ\ПW-С\PWS_6\PWS_6_Client\bin\Debug\PWS_6_Client.exe
+D:\Кирилл\Универ\ПW-С\PWS_6\PWS_6_Client\bin\Debug\PWS_6_Client.pdb
+D:\Кирилл\Универ\ПW-С\PWS_6\PWS_6_Client\bin\Debug\EntityFramework.dll
+D:\Кирилл\Универ\ПW-С\PWS_6\PWS_6_Client\bin\Debug\EntityFramework.SqlServer.dll
+D:\Кирилл\Универ\ПW-С\PWS_6\PWS_6_Client\bin\Debug\Microsoft.Data.Edm.dll
+D:\Кирилл\Универ\ПW-С\PWS_6\PWS_6_Client\bin\Debug\Microsoft.Data.OData.dll
+D:\Кирилл\Универ\ПW-С\PWS_6\PWS_6_Client\bin\Debug\Microsoft.Data.Services.Client.dll
+D:\Кирилл\Универ\ПW-С\PWS_6\PWS_6_Client\bin\Debug\PWS_6.dll
+D:\Кирилл\Универ\ПW-С\PWS_6\PWS_6_Client\bin\Debug\System.ComponentModel.Annotations.dll
+D:\Кирилл\Универ\ПW-С\PWS_6\PWS_6_Client\bin\Debug\System.Spatial.dll
+D:\Кирилл\Универ\ПW-С\PWS_6\PWS_6_Client\bin\Debug\System.ValueTuple.dll
+D:\Кирилл\Универ\ПW-С\PWS_6\PWS_6_Client\bin\Debug\System.Web.Optimization.dll
+D:\Кирилл\Универ\ПW-С\PWS_6\PWS_6_Client\bin\Debug\System.Web.Mvc.dll
+D:\Кирилл\Универ\ПW-С\PWS_6\PWS_6_Client\bin\Debug\Microsoft.OData.EntityFrameworkProvider.dll
+D:\Кирилл\Универ\ПW-С\PWS_6\PWS_6_Client\bin\Debug\Microsoft.Data.Services.dll
+D:\Кирилл\Универ\ПW-С\PWS_6\PWS_6_Client\bin\Debug\WebGrease.dll
+D:\Кирилл\Универ\ПW-С\PWS_6\PWS_6_Client\bin\Debug\Microsoft.Web.Infrastructure.dll
+D:\Кирилл\Универ\ПW-С\PWS_6\PWS_6_Client\bin\Debug\System.Web.WebPages.dll
+D:\Кирилл\Универ\ПW-С\PWS_6\PWS_6_Client\bin\Debug\System.Web.WebPages.Razor.dll
+D:\Кирилл\Универ\ПW-С\PWS_6\PWS_6_Client\bin\Debug\System.Web.Razor.dll
+D:\Кирилл\Универ\ПW-С\PWS_6\PWS_6_Client\bin\Debug\Antlr3.Runtime.dll
+D:\Кирилл\Универ\ПW-С\PWS_6\PWS_6_Client\bin\Debug\Newtonsoft.Json.dll
+D:\Кирилл\Универ\ПW-С\PWS_6\PWS_6_Client\bin\Debug\System.Web.WebPages.Deployment.dll
+D:\Кирилл\Универ\ПW-С\PWS_6\PWS_6_Client\bin\Debug\PWS_6.pdb
+D:\Кирилл\Универ\ПW-С\PWS_6\PWS_6_Client\bin\Debug\PWS_6.dll.config
+D:\Кирилл\Универ\ПW-С\PWS_6\PWS_6_Client\bin\Debug\EntityFramework.xml
+D:\Кирилл\Универ\ПW-С\PWS_6\PWS_6_Client\bin\Debug\EntityFramework.SqlServer.xml
+D:\Кирилл\Универ\ПW-С\PWS_6\PWS_6_Client\bin\Debug\Microsoft.Data.Edm.xml
+D:\Кирилл\Универ\ПW-С\PWS_6\PWS_6_Client\bin\Debug\Microsoft.Data.OData.xml
+D:\Кирилл\Универ\ПW-С\PWS_6\PWS_6_Client\bin\Debug\Microsoft.Data.Services.Client.xml
+D:\Кирилл\Универ\ПW-С\PWS_6\PWS_6_Client\bin\Debug\System.Spatial.xml
+D:\Кирилл\Универ\ПW-С\PWS_6\PWS_6_Client\bin\Debug\System.ValueTuple.xml
+D:\Кирилл\Универ\ПW-С\PWS_6\PWS_6_Client\bin\Debug\System.Web.Optimization.xml
+D:\Кирилл\Универ\ПW-С\PWS_6\PWS_6_Client\bin\Debug\System.Web.Mvc.xml
+D:\Кирилл\Универ\ПW-С\PWS_6\PWS_6_Client\bin\Debug\Microsoft.OData.EntityFrameworkProvider.xml
+D:\Кирилл\Универ\ПW-С\PWS_6\PWS_6_Client\bin\Debug\Microsoft.Data.Services.xml
+D:\Кирилл\Универ\ПW-С\PWS_6\PWS_6_Client\bin\Debug\System.Web.WebPages.xml
+D:\Кирилл\Универ\ПW-С\PWS_6\PWS_6_Client\bin\Debug\System.Web.WebPages.Razor.xml
+D:\Кирилл\Универ\ПW-С\PWS_6\PWS_6_Client\bin\Debug\System.Web.Razor.xml
+D:\Кирилл\Универ\ПW-С\PWS_6\PWS_6_Client\bin\Debug\Antlr3.Runtime.pdb
+D:\Кирилл\Универ\ПW-С\PWS_6\PWS_6_Client\bin\Debug\Newtonsoft.Json.xml
+D:\Кирилл\Универ\ПW-С\PWS_6\PWS_6_Client\bin\Debug\System.Web.WebPages.Deployment.xml
+D:\Кирилл\Универ\ПW-С\PWS_6\PWS_6_Client\bin\Debug\ru\EntityFramework.resources.dll
+D:\Кирилл\Универ\ПW-С\PWS_6\PWS_6_Client\bin\Debug\ru\EntityFramework.SqlServer.resources.dll
+D:\Кирилл\Универ\ПW-С\PWS_6\PWS_6_Client\bin\Debug\de\Microsoft.Data.Edm.resources.dll
+D:\Кирилл\Универ\ПW-С\PWS_6\PWS_6_Client\bin\Debug\es\Microsoft.Data.Edm.resources.dll
+D:\Кирилл\Универ\ПW-С\PWS_6\PWS_6_Client\bin\Debug\fr\Microsoft.Data.Edm.resources.dll
+D:\Кирилл\Универ\ПW-С\PWS_6\PWS_6_Client\bin\Debug\it\Microsoft.Data.Edm.resources.dll
+D:\Кирилл\Универ\ПW-С\PWS_6\PWS_6_Client\bin\Debug\ja\Microsoft.Data.Edm.resources.dll
+D:\Кирилл\Универ\ПW-С\PWS_6\PWS_6_Client\bin\Debug\ko\Microsoft.Data.Edm.resources.dll
+D:\Кирилл\Универ\ПW-С\PWS_6\PWS_6_Client\bin\Debug\ru\Microsoft.Data.Edm.resources.dll
+D:\Кирилл\Универ\ПW-С\PWS_6\PWS_6_Client\bin\Debug\zh-Hans\Microsoft.Data.Edm.resources.dll
+D:\Кирилл\Универ\ПW-С\PWS_6\PWS_6_Client\bin\Debug\zh-Hant\Microsoft.Data.Edm.resources.dll
+D:\Кирилл\Универ\ПW-С\PWS_6\PWS_6_Client\bin\Debug\de\Microsoft.Data.OData.resources.dll
+D:\Кирилл\Универ\ПW-С\PWS_6\PWS_6_Client\bin\Debug\es\Microsoft.Data.OData.resources.dll
+D:\Кирилл\Универ\ПW-С\PWS_6\PWS_6_Client\bin\Debug\fr\Microsoft.Data.OData.resources.dll
+D:\Кирилл\Универ\ПW-С\PWS_6\PWS_6_Client\bin\Debug\it\Microsoft.Data.OData.resources.dll
+D:\Кирилл\Универ\ПW-С\PWS_6\PWS_6_Client\bin\Debug\ja\Microsoft.Data.OData.resources.dll
+D:\Кирилл\Универ\ПW-С\PWS_6\PWS_6_Client\bin\Debug\ko\Microsoft.Data.OData.resources.dll
+D:\Кирилл\Универ\ПW-С\PWS_6\PWS_6_Client\bin\Debug\ru\Microsoft.Data.OData.resources.dll
+D:\Кирилл\Универ\ПW-С\PWS_6\PWS_6_Client\bin\Debug\zh-Hans\Microsoft.Data.OData.resources.dll
+D:\Кирилл\Универ\ПW-С\PWS_6\PWS_6_Client\bin\Debug\zh-Hant\Microsoft.Data.OData.resources.dll
+D:\Кирилл\Универ\ПW-С\PWS_6\PWS_6_Client\bin\Debug\de\Microsoft.Data.Services.Client.resources.dll
+D:\Кирилл\Универ\ПW-С\PWS_6\PWS_6_Client\bin\Debug\es\Microsoft.Data.Services.Client.resources.dll
+D:\Кирилл\Универ\ПW-С\PWS_6\PWS_6_Client\bin\Debug\fr\Microsoft.Data.Services.Client.resources.dll
+D:\Кирилл\Универ\ПW-С\PWS_6\PWS_6_Client\bin\Debug\it\Microsoft.Data.Services.Client.resources.dll
+D:\Кирилл\Универ\ПW-С\PWS_6\PWS_6_Client\bin\Debug\ja\Microsoft.Data.Services.Client.resources.dll
+D:\Кирилл\Универ\ПW-С\PWS_6\PWS_6_Client\bin\Debug\ko\Microsoft.Data.Services.Client.resources.dll
+D:\Кирилл\Универ\ПW-С\PWS_6\PWS_6_Client\bin\Debug\ru\Microsoft.Data.Services.Client.resources.dll
+D:\Кирилл\Универ\ПW-С\PWS_6\PWS_6_Client\bin\Debug\zh-Hans\Microsoft.Data.Services.Client.resources.dll
+D:\Кирилл\Универ\ПW-С\PWS_6\PWS_6_Client\bin\Debug\zh-Hant\Microsoft.Data.Services.Client.resources.dll
+D:\Кирилл\Универ\ПW-С\PWS_6\PWS_6_Client\bin\Debug\de\System.Spatial.resources.dll
+D:\Кирилл\Универ\ПW-С\PWS_6\PWS_6_Client\bin\Debug\es\System.Spatial.resources.dll
+D:\Кирилл\Универ\ПW-С\PWS_6\PWS_6_Client\bin\Debug\fr\System.Spatial.resources.dll
+D:\Кирилл\Универ\ПW-С\PWS_6\PWS_6_Client\bin\Debug\it\System.Spatial.resources.dll
+D:\Кирилл\Универ\ПW-С\PWS_6\PWS_6_Client\bin\Debug\ja\System.Spatial.resources.dll
+D:\Кирилл\Универ\ПW-С\PWS_6\PWS_6_Client\bin\Debug\ko\System.Spatial.resources.dll
+D:\Кирилл\Универ\ПW-С\PWS_6\PWS_6_Client\bin\Debug\ru\System.Spatial.resources.dll
+D:\Кирилл\Универ\ПW-С\PWS_6\PWS_6_Client\bin\Debug\zh-Hans\System.Spatial.resources.dll
+D:\Кирилл\Универ\ПW-С\PWS_6\PWS_6_Client\bin\Debug\zh-Hant\System.Spatial.resources.dll
+D:\Кирилл\Универ\ПW-С\PWS_6\PWS_6_Client\bin\Debug\ru\System.Web.Optimization.resources.dll
+D:\Кирилл\Универ\ПW-С\PWS_6\PWS_6_Client\bin\Debug\ru\System.Web.Mvc.resources.dll
+D:\Кирилл\Универ\ПW-С\PWS_6\PWS_6_Client\bin\Debug\de\Microsoft.Data.Services.resources.dll
+D:\Кирилл\Универ\ПW-С\PWS_6\PWS_6_Client\bin\Debug\es\Microsoft.Data.Services.resources.dll
+D:\Кирилл\Универ\ПW-С\PWS_6\PWS_6_Client\bin\Debug\fr\Microsoft.Data.Services.resources.dll
+D:\Кирилл\Универ\ПW-С\PWS_6\PWS_6_Client\bin\Debug\it\Microsoft.Data.Services.resources.dll
+D:\Кирилл\Универ\ПW-С\PWS_6\PWS_6_Client\bin\Debug\ja\Microsoft.Data.Services.resources.dll
+D:\Кирилл\Универ\ПW-С\PWS_6\PWS_6_Client\bin\Debug\ko\Microsoft.Data.Services.resources.dll
+D:\Кирилл\Универ\ПW-С\PWS_6\PWS_6_Client\bin\Debug\ru\Microsoft.Data.Services.resources.dll
+D:\Кирилл\Универ\ПW-С\PWS_6\PWS_6_Client\bin\Debug\zh-Hans\Microsoft.Data.Services.resources.dll
+D:\Кирилл\Универ\ПW-С\PWS_6\PWS_6_Client\bin\Debug\zh-Hant\Microsoft.Data.Services.resources.dll
+D:\Кирилл\Универ\ПW-С\PWS_6\PWS_6_Client\bin\Debug\ru\System.Web.WebPages.resources.dll
+D:\Кирилл\Универ\ПW-С\PWS_6\PWS_6_Client\bin\Debug\ru\System.Web.WebPages.Razor.resources.dll
+D:\Кирилл\Универ\ПW-С\PWS_6\PWS_6_Client\bin\Debug\ru\System.Web.Razor.resources.dll
+D:\Кирилл\Универ\ПW-С\PWS_6\PWS_6_Client\bin\Debug\ru\System.Web.WebPages.Deployment.resources.dll
+D:\Кирилл\Универ\ПW-С\PWS_6\PWS_6_Client\obj\Debug\PWS_6_Client.csprojAssemblyReference.cache
+D:\Кирилл\Универ\ПW-С\PWS_6\PWS_6_Client\obj\Debug\PWS_6_Client.Form1.resources
+D:\Кирилл\Универ\ПW-С\PWS_6\PWS_6_Client\obj\Debug\PWS_6_Client.Properties.Resources.resources
+D:\Кирилл\Универ\ПW-С\PWS_6\PWS_6_Client\obj\Debug\PWS_6_Client.csproj.GenerateResource.cache
+D:\Кирилл\Универ\ПW-С\PWS_6\PWS_6_Client\obj\Debug\PWS_6_Client.csproj.CoreCompileInputs.cache
+D:\Кирилл\Универ\ПW-С\PWS_6\PWS_6_Client\obj\Debug\PWS_6_Client.csproj.CopyComplete
+D:\Кирилл\Универ\ПW-С\PWS_6\PWS_6_Client\obj\Debug\PWS_6_Client.exe
+D:\Кирилл\Универ\ПW-С\PWS_6\PWS_6_Client\obj\Debug\PWS_6_Client.pdb
+E:\Program Files\PWS\PWS_6\PWS_6_Client\obj\Debug\PWS_6_Client.csprojAssemblyReference.cache
+E:\Program Files\PWS\PWS_6\PWS_6_Client\obj\Debug\PWS_6_Client.Form1.resources
+E:\Program Files\PWS\PWS_6\PWS_6_Client\obj\Debug\PWS_6_Client.Properties.Resources.resources
+E:\Program Files\PWS\PWS_6\PWS_6_Client\obj\Debug\PWS_6_Client.csproj.GenerateResource.cache
+E:\Program Files\PWS\PWS_6\PWS_6_Client\obj\Debug\PWS_6_Client.csproj.CoreCompileInputs.cache
+E:\Program Files\PWS\PWS_6\PWS_6_Client\obj\Debug\PWS_6_Client.exe
+E:\Program Files\PWS\PWS_6\PWS_6_Client\obj\Debug\PWS_6_Client.pdb
+E:\Program Files\PWS\PWS_6\PWS_6_Client\bin\Debug\PWS_6_Client.exe.config
+E:\Program Files\PWS\PWS_6\PWS_6_Client\bin\Debug\PWS_6_Client.exe
+E:\Program Files\PWS\PWS_6\PWS_6_Client\bin\Debug\PWS_6_Client.pdb
+E:\Program Files\PWS\PWS_6\PWS_6_Client\bin\Debug\EntityFramework.dll
+E:\Program Files\PWS\PWS_6\PWS_6_Client\bin\Debug\EntityFramework.SqlServer.dll
+E:\Program Files\PWS\PWS_6\PWS_6_Client\bin\Debug\Microsoft.Data.Edm.dll
+E:\Program Files\PWS\PWS_6\PWS_6_Client\bin\Debug\Microsoft.Data.OData.dll
+E:\Program Files\PWS\PWS_6\PWS_6_Client\bin\Debug\Microsoft.Data.Services.Client.dll
+E:\Program Files\PWS\PWS_6\PWS_6_Client\bin\Debug\PWS_6.dll
+E:\Program Files\PWS\PWS_6\PWS_6_Client\bin\Debug\System.ComponentModel.Annotations.dll
+E:\Program Files\PWS\PWS_6\PWS_6_Client\bin\Debug\System.Spatial.dll
+E:\Program Files\PWS\PWS_6\PWS_6_Client\bin\Debug\System.ValueTuple.dll
+E:\Program Files\PWS\PWS_6\PWS_6_Client\bin\Debug\System.Web.Optimization.dll
+E:\Program Files\PWS\PWS_6\PWS_6_Client\bin\Debug\System.Web.Mvc.dll
+E:\Program Files\PWS\PWS_6\PWS_6_Client\bin\Debug\Microsoft.OData.EntityFrameworkProvider.dll
+E:\Program Files\PWS\PWS_6\PWS_6_Client\bin\Debug\Microsoft.Data.Services.dll
+E:\Program Files\PWS\PWS_6\PWS_6_Client\bin\Debug\WebGrease.dll
+E:\Program Files\PWS\PWS_6\PWS_6_Client\bin\Debug\Microsoft.Web.Infrastructure.dll
+E:\Program Files\PWS\PWS_6\PWS_6_Client\bin\Debug\System.Web.WebPages.dll
+E:\Program Files\PWS\PWS_6\PWS_6_Client\bin\Debug\System.Web.WebPages.Razor.dll
+E:\Program Files\PWS\PWS_6\PWS_6_Client\bin\Debug\System.Web.Razor.dll
+E:\Program Files\PWS\PWS_6\PWS_6_Client\bin\Debug\Antlr3.Runtime.dll
+E:\Program Files\PWS\PWS_6\PWS_6_Client\bin\Debug\Newtonsoft.Json.dll
+E:\Program Files\PWS\PWS_6\PWS_6_Client\bin\Debug\System.Web.WebPages.Deployment.dll
+E:\Program Files\PWS\PWS_6\PWS_6_Client\bin\Debug\PWS_6.pdb
+E:\Program Files\PWS\PWS_6\PWS_6_Client\bin\Debug\PWS_6.dll.config
+E:\Program Files\PWS\PWS_6\PWS_6_Client\bin\Debug\EntityFramework.xml
+E:\Program Files\PWS\PWS_6\PWS_6_Client\bin\Debug\EntityFramework.SqlServer.xml
+E:\Program Files\PWS\PWS_6\PWS_6_Client\bin\Debug\Microsoft.Data.Edm.xml
+E:\Program Files\PWS\PWS_6\PWS_6_Client\bin\Debug\Microsoft.Data.OData.xml
+E:\Program Files\PWS\PWS_6\PWS_6_Client\bin\Debug\Microsoft.Data.Services.Client.xml
+E:\Program Files\PWS\PWS_6\PWS_6_Client\bin\Debug\System.Spatial.xml
+E:\Program Files\PWS\PWS_6\PWS_6_Client\bin\Debug\System.ValueTuple.xml
+E:\Program Files\PWS\PWS_6\PWS_6_Client\bin\Debug\System.Web.Optimization.xml
+E:\Program Files\PWS\PWS_6\PWS_6_Client\bin\Debug\System.Web.Mvc.xml
+E:\Program Files\PWS\PWS_6\PWS_6_Client\bin\Debug\Microsoft.OData.EntityFrameworkProvider.xml
+E:\Program Files\PWS\PWS_6\PWS_6_Client\bin\Debug\Microsoft.Data.Services.xml
+E:\Program Files\PWS\PWS_6\PWS_6_Client\bin\Debug\System.Web.WebPages.xml
+E:\Program Files\PWS\PWS_6\PWS_6_Client\bin\Debug\System.Web.WebPages.Razor.xml
+E:\Program Files\PWS\PWS_6\PWS_6_Client\bin\Debug\System.Web.Razor.xml
+E:\Program Files\PWS\PWS_6\PWS_6_Client\bin\Debug\Antlr3.Runtime.pdb
+E:\Program Files\PWS\PWS_6\PWS_6_Client\bin\Debug\Newtonsoft.Json.xml
+E:\Program Files\PWS\PWS_6\PWS_6_Client\bin\Debug\System.Web.WebPages.Deployment.xml
+E:\Program Files\PWS\PWS_6\PWS_6_Client\bin\Debug\ru\EntityFramework.resources.dll
+E:\Program Files\PWS\PWS_6\PWS_6_Client\bin\Debug\ru\EntityFramework.SqlServer.resources.dll
+E:\Program Files\PWS\PWS_6\PWS_6_Client\bin\Debug\de\Microsoft.Data.Edm.resources.dll
+E:\Program Files\PWS\PWS_6\PWS_6_Client\bin\Debug\es\Microsoft.Data.Edm.resources.dll
+E:\Program Files\PWS\PWS_6\PWS_6_Client\bin\Debug\fr\Microsoft.Data.Edm.resources.dll
+E:\Program Files\PWS\PWS_6\PWS_6_Client\bin\Debug\it\Microsoft.Data.Edm.resources.dll
+E:\Program Files\PWS\PWS_6\PWS_6_Client\bin\Debug\ja\Microsoft.Data.Edm.resources.dll
+E:\Program Files\PWS\PWS_6\PWS_6_Client\bin\Debug\ko\Microsoft.Data.Edm.resources.dll
+E:\Program Files\PWS\PWS_6\PWS_6_Client\bin\Debug\ru\Microsoft.Data.Edm.resources.dll
+E:\Program Files\PWS\PWS_6\PWS_6_Client\bin\Debug\zh-Hans\Microsoft.Data.Edm.resources.dll
+E:\Program Files\PWS\PWS_6\PWS_6_Client\bin\Debug\zh-Hant\Microsoft.Data.Edm.resources.dll
+E:\Program Files\PWS\PWS_6\PWS_6_Client\bin\Debug\de\Microsoft.Data.OData.resources.dll
+E:\Program Files\PWS\PWS_6\PWS_6_Client\bin\Debug\es\Microsoft.Data.OData.resources.dll
+E:\Program Files\PWS\PWS_6\PWS_6_Client\bin\Debug\fr\Microsoft.Data.OData.resources.dll
+E:\Program Files\PWS\PWS_6\PWS_6_Client\bin\Debug\it\Microsoft.Data.OData.resources.dll
+E:\Program Files\PWS\PWS_6\PWS_6_Client\bin\Debug\ja\Microsoft.Data.OData.resources.dll
+E:\Program Files\PWS\PWS_6\PWS_6_Client\bin\Debug\ko\Microsoft.Data.OData.resources.dll
+E:\Program Files\PWS\PWS_6\PWS_6_Client\bin\Debug\ru\Microsoft.Data.OData.resources.dll
+E:\Program Files\PWS\PWS_6\PWS_6_Client\bin\Debug\zh-Hans\Microsoft.Data.OData.resources.dll
+E:\Program Files\PWS\PWS_6\PWS_6_Client\bin\Debug\zh-Hant\Microsoft.Data.OData.resources.dll
+E:\Program Files\PWS\PWS_6\PWS_6_Client\bin\Debug\de\Microsoft.Data.Services.Client.resources.dll
+E:\Program Files\PWS\PWS_6\PWS_6_Client\bin\Debug\es\Microsoft.Data.Services.Client.resources.dll
+E:\Program Files\PWS\PWS_6\PWS_6_Client\bin\Debug\fr\Microsoft.Data.Services.Client.resources.dll
+E:\Program Files\PWS\PWS_6\PWS_6_Client\bin\Debug\it\Microsoft.Data.Services.Client.resources.dll
+E:\Program Files\PWS\PWS_6\PWS_6_Client\bin\Debug\ja\Microsoft.Data.Services.Client.resources.dll
+E:\Program Files\PWS\PWS_6\PWS_6_Client\bin\Debug\ko\Microsoft.Data.Services.Client.resources.dll
+E:\Program Files\PWS\PWS_6\PWS_6_Client\bin\Debug\ru\Microsoft.Data.Services.Client.resources.dll
+E:\Program Files\PWS\PWS_6\PWS_6_Client\bin\Debug\zh-Hans\Microsoft.Data.Services.Client.resources.dll
+E:\Program Files\PWS\PWS_6\PWS_6_Client\bin\Debug\zh-Hant\Microsoft.Data.Services.Client.resources.dll
+E:\Program Files\PWS\PWS_6\PWS_6_Client\bin\Debug\de\System.Spatial.resources.dll
+E:\Program Files\PWS\PWS_6\PWS_6_Client\bin\Debug\es\System.Spatial.resources.dll
+E:\Program Files\PWS\PWS_6\PWS_6_Client\bin\Debug\fr\System.Spatial.resources.dll
+E:\Program Files\PWS\PWS_6\PWS_6_Client\bin\Debug\it\System.Spatial.resources.dll
+E:\Program Files\PWS\PWS_6\PWS_6_Client\bin\Debug\ja\System.Spatial.resources.dll
+E:\Program Files\PWS\PWS_6\PWS_6_Client\bin\Debug\ko\System.Spatial.resources.dll
+E:\Program Files\PWS\PWS_6\PWS_6_Client\bin\Debug\ru\System.Spatial.resources.dll
+E:\Program Files\PWS\PWS_6\PWS_6_Client\bin\Debug\zh-Hans\System.Spatial.resources.dll
+E:\Program Files\PWS\PWS_6\PWS_6_Client\bin\Debug\zh-Hant\System.Spatial.resources.dll
+E:\Program Files\PWS\PWS_6\PWS_6_Client\bin\Debug\ru\System.Web.Optimization.resources.dll
+E:\Program Files\PWS\PWS_6\PWS_6_Client\bin\Debug\ru\System.Web.Mvc.resources.dll
+E:\Program Files\PWS\PWS_6\PWS_6_Client\bin\Debug\de\Microsoft.Data.Services.resources.dll
+E:\Program Files\PWS\PWS_6\PWS_6_Client\bin\Debug\es\Microsoft.Data.Services.resources.dll
+E:\Program Files\PWS\PWS_6\PWS_6_Client\bin\Debug\fr\Microsoft.Data.Services.resources.dll
+E:\Program Files\PWS\PWS_6\PWS_6_Client\bin\Debug\it\Microsoft.Data.Services.resources.dll
+E:\Program Files\PWS\PWS_6\PWS_6_Client\bin\Debug\ja\Microsoft.Data.Services.resources.dll
+E:\Program Files\PWS\PWS_6\PWS_6_Client\bin\Debug\ko\Microsoft.Data.Services.resources.dll
+E:\Program Files\PWS\PWS_6\PWS_6_Client\bin\Debug\ru\Microsoft.Data.Services.resources.dll
+E:\Program Files\PWS\PWS_6\PWS_6_Client\bin\Debug\zh-Hans\Microsoft.Data.Services.resources.dll
+E:\Program Files\PWS\PWS_6\PWS_6_Client\bin\Debug\zh-Hant\Microsoft.Data.Services.resources.dll
+E:\Program Files\PWS\PWS_6\PWS_6_Client\bin\Debug\ru\System.Web.WebPages.resources.dll
+E:\Program Files\PWS\PWS_6\PWS_6_Client\bin\Debug\ru\System.Web.WebPages.Razor.resources.dll
+E:\Program Files\PWS\PWS_6\PWS_6_Client\bin\Debug\ru\System.Web.Razor.resources.dll
+E:\Program Files\PWS\PWS_6\PWS_6_Client\bin\Debug\ru\System.Web.WebPages.Deployment.resources.dll
+E:\Program Files\PWS\PWS_6\PWS_6_Client\obj\Debug\PWS_6_Client.csproj.CopyComplete
+D:\7sem\PWS\PWS_6\PWS_6_Client\bin\Debug\PWS_6_Client.exe.config
+D:\7sem\PWS\PWS_6\PWS_6_Client\bin\Debug\PWS_6_Client.exe
+D:\7sem\PWS\PWS_6\PWS_6_Client\bin\Debug\PWS_6_Client.pdb
+D:\7sem\PWS\PWS_6\PWS_6_Client\bin\Debug\EntityFramework.dll
+D:\7sem\PWS\PWS_6\PWS_6_Client\bin\Debug\EntityFramework.SqlServer.dll
+D:\7sem\PWS\PWS_6\PWS_6_Client\bin\Debug\Microsoft.Data.Edm.dll
+D:\7sem\PWS\PWS_6\PWS_6_Client\bin\Debug\Microsoft.Data.OData.dll
+D:\7sem\PWS\PWS_6\PWS_6_Client\bin\Debug\Microsoft.Data.Services.Client.dll
+D:\7sem\PWS\PWS_6\PWS_6_Client\bin\Debug\PWS_6.dll
+D:\7sem\PWS\PWS_6\PWS_6_Client\bin\Debug\System.ComponentModel.Annotations.dll
+D:\7sem\PWS\PWS_6\PWS_6_Client\bin\Debug\System.Spatial.dll
+D:\7sem\PWS\PWS_6\PWS_6_Client\bin\Debug\System.ValueTuple.dll
+D:\7sem\PWS\PWS_6\PWS_6_Client\bin\Debug\System.Web.Optimization.dll
+D:\7sem\PWS\PWS_6\PWS_6_Client\bin\Debug\System.Web.Mvc.dll
+D:\7sem\PWS\PWS_6\PWS_6_Client\bin\Debug\Microsoft.OData.EntityFrameworkProvider.dll
+D:\7sem\PWS\PWS_6\PWS_6_Client\bin\Debug\Microsoft.Data.Services.dll
+D:\7sem\PWS\PWS_6\PWS_6_Client\bin\Debug\WebGrease.dll
+D:\7sem\PWS\PWS_6\PWS_6_Client\bin\Debug\Microsoft.Web.Infrastructure.dll
+D:\7sem\PWS\PWS_6\PWS_6_Client\bin\Debug\System.Web.WebPages.dll
+D:\7sem\PWS\PWS_6\PWS_6_Client\bin\Debug\System.Web.WebPages.Razor.dll
+D:\7sem\PWS\PWS_6\PWS_6_Client\bin\Debug\System.Web.Razor.dll
+D:\7sem\PWS\PWS_6\PWS_6_Client\bin\Debug\Antlr3.Runtime.dll
+D:\7sem\PWS\PWS_6\PWS_6_Client\bin\Debug\Newtonsoft.Json.dll
+D:\7sem\PWS\PWS_6\PWS_6_Client\bin\Debug\System.Web.WebPages.Deployment.dll
+D:\7sem\PWS\PWS_6\PWS_6_Client\bin\Debug\PWS_6.pdb
+D:\7sem\PWS\PWS_6\PWS_6_Client\bin\Debug\PWS_6.dll.config
+D:\7sem\PWS\PWS_6\PWS_6_Client\bin\Debug\EntityFramework.xml
+D:\7sem\PWS\PWS_6\PWS_6_Client\bin\Debug\EntityFramework.SqlServer.xml
+D:\7sem\PWS\PWS_6\PWS_6_Client\bin\Debug\Microsoft.Data.Edm.xml
+D:\7sem\PWS\PWS_6\PWS_6_Client\bin\Debug\Microsoft.Data.OData.xml
+D:\7sem\PWS\PWS_6\PWS_6_Client\bin\Debug\Microsoft.Data.Services.Client.xml
+D:\7sem\PWS\PWS_6\PWS_6_Client\bin\Debug\System.Spatial.xml
+D:\7sem\PWS\PWS_6\PWS_6_Client\bin\Debug\System.ValueTuple.xml
+D:\7sem\PWS\PWS_6\PWS_6_Client\bin\Debug\System.Web.Optimization.xml
+D:\7sem\PWS\PWS_6\PWS_6_Client\bin\Debug\System.Web.Mvc.xml
+D:\7sem\PWS\PWS_6\PWS_6_Client\bin\Debug\Microsoft.OData.EntityFrameworkProvider.xml
+D:\7sem\PWS\PWS_6\PWS_6_Client\bin\Debug\Microsoft.Data.Services.xml
+D:\7sem\PWS\PWS_6\PWS_6_Client\bin\Debug\System.Web.WebPages.xml
+D:\7sem\PWS\PWS_6\PWS_6_Client\bin\Debug\System.Web.WebPages.Razor.xml
+D:\7sem\PWS\PWS_6\PWS_6_Client\bin\Debug\System.Web.Razor.xml
+D:\7sem\PWS\PWS_6\PWS_6_Client\bin\Debug\Antlr3.Runtime.pdb
+D:\7sem\PWS\PWS_6\PWS_6_Client\bin\Debug\Newtonsoft.Json.xml
+D:\7sem\PWS\PWS_6\PWS_6_Client\bin\Debug\System.Web.WebPages.Deployment.xml
+D:\7sem\PWS\PWS_6\PWS_6_Client\bin\Debug\ru\EntityFramework.resources.dll
+D:\7sem\PWS\PWS_6\PWS_6_Client\bin\Debug\ru\EntityFramework.SqlServer.resources.dll
+D:\7sem\PWS\PWS_6\PWS_6_Client\bin\Debug\de\Microsoft.Data.Edm.resources.dll
+D:\7sem\PWS\PWS_6\PWS_6_Client\bin\Debug\es\Microsoft.Data.Edm.resources.dll
+D:\7sem\PWS\PWS_6\PWS_6_Client\bin\Debug\fr\Microsoft.Data.Edm.resources.dll
+D:\7sem\PWS\PWS_6\PWS_6_Client\bin\Debug\it\Microsoft.Data.Edm.resources.dll
+D:\7sem\PWS\PWS_6\PWS_6_Client\bin\Debug\ja\Microsoft.Data.Edm.resources.dll
+D:\7sem\PWS\PWS_6\PWS_6_Client\bin\Debug\ko\Microsoft.Data.Edm.resources.dll
+D:\7sem\PWS\PWS_6\PWS_6_Client\bin\Debug\ru\Microsoft.Data.Edm.resources.dll
+D:\7sem\PWS\PWS_6\PWS_6_Client\bin\Debug\zh-Hans\Microsoft.Data.Edm.resources.dll
+D:\7sem\PWS\PWS_6\PWS_6_Client\bin\Debug\zh-Hant\Microsoft.Data.Edm.resources.dll
+D:\7sem\PWS\PWS_6\PWS_6_Client\bin\Debug\de\Microsoft.Data.OData.resources.dll
+D:\7sem\PWS\PWS_6\PWS_6_Client\bin\Debug\es\Microsoft.Data.OData.resources.dll
+D:\7sem\PWS\PWS_6\PWS_6_Client\bin\Debug\fr\Microsoft.Data.OData.resources.dll
+D:\7sem\PWS\PWS_6\PWS_6_Client\bin\Debug\it\Microsoft.Data.OData.resources.dll
+D:\7sem\PWS\PWS_6\PWS_6_Client\bin\Debug\ja\Microsoft.Data.OData.resources.dll
+D:\7sem\PWS\PWS_6\PWS_6_Client\bin\Debug\ko\Microsoft.Data.OData.resources.dll
+D:\7sem\PWS\PWS_6\PWS_6_Client\bin\Debug\ru\Microsoft.Data.OData.resources.dll
+D:\7sem\PWS\PWS_6\PWS_6_Client\bin\Debug\zh-Hans\Microsoft.Data.OData.resources.dll
+D:\7sem\PWS\PWS_6\PWS_6_Client\bin\Debug\zh-Hant\Microsoft.Data.OData.resources.dll
+D:\7sem\PWS\PWS_6\PWS_6_Client\bin\Debug\de\Microsoft.Data.Services.Client.resources.dll
+D:\7sem\PWS\PWS_6\PWS_6_Client\bin\Debug\es\Microsoft.Data.Services.Client.resources.dll
+D:\7sem\PWS\PWS_6\PWS_6_Client\bin\Debug\fr\Microsoft.Data.Services.Client.resources.dll
+D:\7sem\PWS\PWS_6\PWS_6_Client\bin\Debug\it\Microsoft.Data.Services.Client.resources.dll
+D:\7sem\PWS\PWS_6\PWS_6_Client\bin\Debug\ja\Microsoft.Data.Services.Client.resources.dll
+D:\7sem\PWS\PWS_6\PWS_6_Client\bin\Debug\ko\Microsoft.Data.Services.Client.resources.dll
+D:\7sem\PWS\PWS_6\PWS_6_Client\bin\Debug\ru\Microsoft.Data.Services.Client.resources.dll
+D:\7sem\PWS\PWS_6\PWS_6_Client\bin\Debug\zh-Hans\Microsoft.Data.Services.Client.resources.dll
+D:\7sem\PWS\PWS_6\PWS_6_Client\bin\Debug\zh-Hant\Microsoft.Data.Services.Client.resources.dll
+D:\7sem\PWS\PWS_6\PWS_6_Client\bin\Debug\de\System.Spatial.resources.dll
+D:\7sem\PWS\PWS_6\PWS_6_Client\bin\Debug\es\System.Spatial.resources.dll
+D:\7sem\PWS\PWS_6\PWS_6_Client\bin\Debug\fr\System.Spatial.resources.dll
+D:\7sem\PWS\PWS_6\PWS_6_Client\bin\Debug\it\System.Spatial.resources.dll
+D:\7sem\PWS\PWS_6\PWS_6_Client\bin\Debug\ja\System.Spatial.resources.dll
+D:\7sem\PWS\PWS_6\PWS_6_Client\bin\Debug\ko\System.Spatial.resources.dll
+D:\7sem\PWS\PWS_6\PWS_6_Client\bin\Debug\ru\System.Spatial.resources.dll
+D:\7sem\PWS\PWS_6\PWS_6_Client\bin\Debug\zh-Hans\System.Spatial.resources.dll
+D:\7sem\PWS\PWS_6\PWS_6_Client\bin\Debug\zh-Hant\System.Spatial.resources.dll
+D:\7sem\PWS\PWS_6\PWS_6_Client\bin\Debug\ru\System.Web.Optimization.resources.dll
+D:\7sem\PWS\PWS_6\PWS_6_Client\bin\Debug\ru\System.Web.Mvc.resources.dll
+D:\7sem\PWS\PWS_6\PWS_6_Client\bin\Debug\de\Microsoft.Data.Services.resources.dll
+D:\7sem\PWS\PWS_6\PWS_6_Client\bin\Debug\es\Microsoft.Data.Services.resources.dll
+D:\7sem\PWS\PWS_6\PWS_6_Client\bin\Debug\fr\Microsoft.Data.Services.resources.dll
+D:\7sem\PWS\PWS_6\PWS_6_Client\bin\Debug\it\Microsoft.Data.Services.resources.dll
+D:\7sem\PWS\PWS_6\PWS_6_Client\bin\Debug\ja\Microsoft.Data.Services.resources.dll
+D:\7sem\PWS\PWS_6\PWS_6_Client\bin\Debug\ko\Microsoft.Data.Services.resources.dll
+D:\7sem\PWS\PWS_6\PWS_6_Client\bin\Debug\ru\Microsoft.Data.Services.resources.dll
+D:\7sem\PWS\PWS_6\PWS_6_Client\bin\Debug\zh-Hans\Microsoft.Data.Services.resources.dll
+D:\7sem\PWS\PWS_6\PWS_6_Client\bin\Debug\zh-Hant\Microsoft.Data.Services.resources.dll
+D:\7sem\PWS\PWS_6\PWS_6_Client\bin\Debug\ru\System.Web.WebPages.resources.dll
+D:\7sem\PWS\PWS_6\PWS_6_Client\bin\Debug\ru\System.Web.WebPages.Razor.resources.dll
+D:\7sem\PWS\PWS_6\PWS_6_Client\bin\Debug\ru\System.Web.Razor.resources.dll
+D:\7sem\PWS\PWS_6\PWS_6_Client\bin\Debug\ru\System.Web.WebPages.Deployment.resources.dll
+D:\7sem\PWS\PWS_6\PWS_6_Client\obj\Debug\PWS_6_Client.csprojAssemblyReference.cache
+D:\7sem\PWS\PWS_6\PWS_6_Client\obj\Debug\PWS_6_Client.Form1.resources
+D:\7sem\PWS\PWS_6\PWS_6_Client\obj\Debug\PWS_6_Client.Properties.Resources.resources
+D:\7sem\PWS\PWS_6\PWS_6_Client\obj\Debug\PWS_6_Client.csproj.GenerateResource.cache
+D:\7sem\PWS\PWS_6\PWS_6_Client\obj\Debug\PWS_6_Client.csproj.CoreCompileInputs.cache
+D:\7sem\PWS\PWS_6\PWS_6_Client\obj\Debug\PWS_6_Client.csproj.CopyComplete
+D:\7sem\PWS\PWS_6\PWS_6_Client\obj\Debug\PWS_6_Client.exe
+D:\7sem\PWS\PWS_6\PWS_6_Client\obj\Debug\PWS_6_Client.pdb

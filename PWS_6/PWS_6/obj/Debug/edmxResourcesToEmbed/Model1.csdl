@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="WSKNVModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="Note">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Subj" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+    <Property Name="Note1" Type="Int32" />
+    <Property Name="StudentId" Type="Int32" Nullable="false" />
+    <NavigationProperty Name="Student" Relationship="Self.FK__Note__StudentId__267ABA7A" FromRole="Note" ToRole="Student" />
+  </EntityType>
+  <EntityType Name="Student">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Name" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+    <NavigationProperty Name="Note" Relationship="Self.FK__Note__StudentId__267ABA7A" FromRole="Student" ToRole="Note" />
+  </EntityType>
+  <Association Name="FK__Note__StudentId__267ABA7A">
+    <End Role="Student" Type="Self.Student" Multiplicity="1" />
+    <End Role="Note" Type="Self.Note" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Student">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="Note">
+        <PropertyRef Name="StudentId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="WSKNVEntities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="Note" EntityType="Self.Note" />
+    <EntitySet Name="Student" EntityType="Self.Student" />
+    <AssociationSet Name="FK__Note__StudentId__267ABA7A" Association="Self.FK__Note__StudentId__267ABA7A">
+      <End Role="Student" EntitySet="Student" />
+      <End Role="Note" EntitySet="Note" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>

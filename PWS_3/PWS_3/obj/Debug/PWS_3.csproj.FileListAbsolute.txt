@@ -1,0 +1,288 @@
+E:\Program Files\PWS\PWS_3\PWS_3\obj\Debug\PWS_3.csprojAssemblyReference.cache
+E:\Program Files\PWS\PWS_3\PWS_3\obj\Debug\PWS_3.csproj.CoreCompileInputs.cache
+E:\Program Files\PWS\PWS_3\PWS_3\bin\PWS_3.dll.config
+E:\Program Files\PWS\PWS_3\PWS_3\bin\PWS_3.dll
+E:\Program Files\PWS\PWS_3\PWS_3\bin\PWS_3.pdb
+E:\Program Files\PWS\PWS_3\PWS_3\bin\roslyn\csc.exe
+E:\Program Files\PWS\PWS_3\PWS_3\bin\roslyn\csc.exe.config
+E:\Program Files\PWS\PWS_3\PWS_3\bin\roslyn\csc.rsp
+E:\Program Files\PWS\PWS_3\PWS_3\bin\roslyn\csi.exe
+E:\Program Files\PWS\PWS_3\PWS_3\bin\roslyn\csi.exe.config
+E:\Program Files\PWS\PWS_3\PWS_3\bin\roslyn\csi.rsp
+E:\Program Files\PWS\PWS_3\PWS_3\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Program Files\PWS\PWS_3\PWS_3\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Program Files\PWS\PWS_3\PWS_3\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\Program Files\PWS\PWS_3\PWS_3\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Program Files\PWS\PWS_3\PWS_3\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\Program Files\PWS\PWS_3\PWS_3\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Program Files\PWS\PWS_3\PWS_3\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Program Files\PWS\PWS_3\PWS_3\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\Program Files\PWS\PWS_3\PWS_3\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\Program Files\PWS\PWS_3\PWS_3\bin\roslyn\Microsoft.Managed.Core.targets
+E:\Program Files\PWS\PWS_3\PWS_3\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Program Files\PWS\PWS_3\PWS_3\bin\roslyn\System.AppContext.dll
+E:\Program Files\PWS\PWS_3\PWS_3\bin\roslyn\System.Collections.Immutable.dll
+E:\Program Files\PWS\PWS_3\PWS_3\bin\roslyn\System.Console.dll
+E:\Program Files\PWS\PWS_3\PWS_3\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\Program Files\PWS\PWS_3\PWS_3\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\Program Files\PWS\PWS_3\PWS_3\bin\roslyn\System.IO.Compression.dll
+E:\Program Files\PWS\PWS_3\PWS_3\bin\roslyn\System.IO.FileSystem.dll
+E:\Program Files\PWS\PWS_3\PWS_3\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\Program Files\PWS\PWS_3\PWS_3\bin\roslyn\System.IO.Pipes.AccessControl.dll
+E:\Program Files\PWS\PWS_3\PWS_3\bin\roslyn\System.IO.Pipes.dll
+E:\Program Files\PWS\PWS_3\PWS_3\bin\roslyn\System.Reflection.Metadata.dll
+E:\Program Files\PWS\PWS_3\PWS_3\bin\roslyn\System.Security.AccessControl.dll
+E:\Program Files\PWS\PWS_3\PWS_3\bin\roslyn\System.Security.Claims.dll
+E:\Program Files\PWS\PWS_3\PWS_3\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\Program Files\PWS\PWS_3\PWS_3\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\Program Files\PWS\PWS_3\PWS_3\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\Program Files\PWS\PWS_3\PWS_3\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\Program Files\PWS\PWS_3\PWS_3\bin\roslyn\System.Security.Principal.Windows.dll
+E:\Program Files\PWS\PWS_3\PWS_3\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\Program Files\PWS\PWS_3\PWS_3\bin\roslyn\System.ValueTuple.dll
+E:\Program Files\PWS\PWS_3\PWS_3\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\Program Files\PWS\PWS_3\PWS_3\bin\roslyn\System.Xml.XmlDocument.dll
+E:\Program Files\PWS\PWS_3\PWS_3\bin\roslyn\System.Xml.XPath.dll
+E:\Program Files\PWS\PWS_3\PWS_3\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\Program Files\PWS\PWS_3\PWS_3\bin\roslyn\vbc.exe
+E:\Program Files\PWS\PWS_3\PWS_3\bin\roslyn\vbc.exe.config
+E:\Program Files\PWS\PWS_3\PWS_3\bin\roslyn\vbc.rsp
+E:\Program Files\PWS\PWS_3\PWS_3\bin\roslyn\VBCSCompiler.exe
+E:\Program Files\PWS\PWS_3\PWS_3\bin\roslyn\VBCSCompiler.exe.config
+E:\Program Files\PWS\PWS_3\PWS_3\bin\Antlr3.Runtime.dll
+E:\Program Files\PWS\PWS_3\PWS_3\bin\EntityFramework.dll
+E:\Program Files\PWS\PWS_3\PWS_3\bin\EntityFramework.SqlServer.dll
+E:\Program Files\PWS\PWS_3\PWS_3\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Program Files\PWS\PWS_3\PWS_3\bin\Microsoft.Web.Infrastructure.dll
+E:\Program Files\PWS\PWS_3\PWS_3\bin\Newtonsoft.Json.dll
+E:\Program Files\PWS\PWS_3\PWS_3\bin\System.Net.Http.Formatting.dll
+E:\Program Files\PWS\PWS_3\PWS_3\bin\System.Web.Helpers.dll
+E:\Program Files\PWS\PWS_3\PWS_3\bin\System.Web.Http.dll
+E:\Program Files\PWS\PWS_3\PWS_3\bin\System.Web.Http.WebHost.dll
+E:\Program Files\PWS\PWS_3\PWS_3\bin\System.Web.Mvc.dll
+E:\Program Files\PWS\PWS_3\PWS_3\bin\System.Web.Optimization.dll
+E:\Program Files\PWS\PWS_3\PWS_3\bin\System.Web.Razor.dll
+E:\Program Files\PWS\PWS_3\PWS_3\bin\System.Web.WebPages.Deployment.dll
+E:\Program Files\PWS\PWS_3\PWS_3\bin\System.Web.WebPages.dll
+E:\Program Files\PWS\PWS_3\PWS_3\bin\System.Web.WebPages.Razor.dll
+E:\Program Files\PWS\PWS_3\PWS_3\bin\WebGrease.dll
+E:\Program Files\PWS\PWS_3\PWS_3\bin\EntityFramework.xml
+E:\Program Files\PWS\PWS_3\PWS_3\bin\EntityFramework.SqlServer.xml
+E:\Program Files\PWS\PWS_3\PWS_3\bin\Newtonsoft.Json.xml
+E:\Program Files\PWS\PWS_3\PWS_3\bin\System.Net.Http.Formatting.xml
+E:\Program Files\PWS\PWS_3\PWS_3\bin\System.Web.Helpers.xml
+E:\Program Files\PWS\PWS_3\PWS_3\bin\System.Web.Http.xml
+E:\Program Files\PWS\PWS_3\PWS_3\bin\System.Web.Http.WebHost.xml
+E:\Program Files\PWS\PWS_3\PWS_3\bin\System.Web.Mvc.xml
+E:\Program Files\PWS\PWS_3\PWS_3\bin\System.Web.Optimization.xml
+E:\Program Files\PWS\PWS_3\PWS_3\bin\System.Web.Razor.xml
+E:\Program Files\PWS\PWS_3\PWS_3\bin\System.Web.WebPages.xml
+E:\Program Files\PWS\PWS_3\PWS_3\bin\System.Web.WebPages.Deployment.xml
+E:\Program Files\PWS\PWS_3\PWS_3\bin\System.Web.WebPages.Razor.xml
+E:\Program Files\PWS\PWS_3\PWS_3\bin\Antlr3.Runtime.pdb
+E:\Program Files\PWS\PWS_3\PWS_3\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Program Files\PWS\PWS_3\PWS_3\bin\ru\System.Net.Http.Formatting.resources.dll
+E:\Program Files\PWS\PWS_3\PWS_3\bin\ru\System.Web.Helpers.resources.dll
+E:\Program Files\PWS\PWS_3\PWS_3\bin\ru\System.Web.Http.resources.dll
+E:\Program Files\PWS\PWS_3\PWS_3\bin\ru\System.Web.Http.WebHost.resources.dll
+E:\Program Files\PWS\PWS_3\PWS_3\bin\ru\System.Web.Mvc.resources.dll
+E:\Program Files\PWS\PWS_3\PWS_3\bin\ru\System.Web.Optimization.resources.dll
+E:\Program Files\PWS\PWS_3\PWS_3\bin\ru\System.Web.Razor.resources.dll
+E:\Program Files\PWS\PWS_3\PWS_3\bin\ru\System.Web.WebPages.resources.dll
+E:\Program Files\PWS\PWS_3\PWS_3\bin\ru\System.Web.WebPages.Deployment.resources.dll
+E:\Program Files\PWS\PWS_3\PWS_3\bin\ru\System.Web.WebPages.Razor.resources.dll
+E:\Program Files\PWS\PWS_3\PWS_3\obj\Debug\PWS_3.csproj.CopyComplete
+E:\Program Files\PWS\PWS_3\PWS_3\obj\Debug\PWS_3.dll
+E:\Program Files\PWS\PWS_3\PWS_3\obj\Debug\PWS_3.pdb
+F:\7sem\ПВС\PWS_3\PWS_3\bin\PWS_3.dll.config
+F:\7sem\ПВС\PWS_3\PWS_3\bin\PWS_3.dll
+F:\7sem\ПВС\PWS_3\PWS_3\bin\PWS_3.pdb
+F:\7sem\ПВС\PWS_3\PWS_3\bin\roslyn\csc.exe
+F:\7sem\ПВС\PWS_3\PWS_3\bin\roslyn\csc.exe.config
+F:\7sem\ПВС\PWS_3\PWS_3\bin\roslyn\csc.rsp
+F:\7sem\ПВС\PWS_3\PWS_3\bin\roslyn\csi.exe
+F:\7sem\ПВС\PWS_3\PWS_3\bin\roslyn\csi.exe.config
+F:\7sem\ПВС\PWS_3\PWS_3\bin\roslyn\csi.rsp
+F:\7sem\ПВС\PWS_3\PWS_3\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\7sem\ПВС\PWS_3\PWS_3\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\7sem\ПВС\PWS_3\PWS_3\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+F:\7sem\ПВС\PWS_3\PWS_3\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\7sem\ПВС\PWS_3\PWS_3\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+F:\7sem\ПВС\PWS_3\PWS_3\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\7sem\ПВС\PWS_3\PWS_3\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\7sem\ПВС\PWS_3\PWS_3\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+F:\7sem\ПВС\PWS_3\PWS_3\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+F:\7sem\ПВС\PWS_3\PWS_3\bin\roslyn\Microsoft.Managed.Core.targets
+F:\7sem\ПВС\PWS_3\PWS_3\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\7sem\ПВС\PWS_3\PWS_3\bin\roslyn\System.AppContext.dll
+F:\7sem\ПВС\PWS_3\PWS_3\bin\roslyn\System.Collections.Immutable.dll
+F:\7sem\ПВС\PWS_3\PWS_3\bin\roslyn\System.Console.dll
+F:\7sem\ПВС\PWS_3\PWS_3\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+F:\7sem\ПВС\PWS_3\PWS_3\bin\roslyn\System.Diagnostics.StackTrace.dll
+F:\7sem\ПВС\PWS_3\PWS_3\bin\roslyn\System.IO.Compression.dll
+F:\7sem\ПВС\PWS_3\PWS_3\bin\roslyn\System.IO.FileSystem.dll
+F:\7sem\ПВС\PWS_3\PWS_3\bin\roslyn\System.IO.FileSystem.Primitives.dll
+F:\7sem\ПВС\PWS_3\PWS_3\bin\roslyn\System.IO.Pipes.AccessControl.dll
+F:\7sem\ПВС\PWS_3\PWS_3\bin\roslyn\System.IO.Pipes.dll
+F:\7sem\ПВС\PWS_3\PWS_3\bin\roslyn\System.Reflection.Metadata.dll
+F:\7sem\ПВС\PWS_3\PWS_3\bin\roslyn\System.Security.AccessControl.dll
+F:\7sem\ПВС\PWS_3\PWS_3\bin\roslyn\System.Security.Claims.dll
+F:\7sem\ПВС\PWS_3\PWS_3\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+F:\7sem\ПВС\PWS_3\PWS_3\bin\roslyn\System.Security.Cryptography.Encoding.dll
+F:\7sem\ПВС\PWS_3\PWS_3\bin\roslyn\System.Security.Cryptography.Primitives.dll
+F:\7sem\ПВС\PWS_3\PWS_3\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+F:\7sem\ПВС\PWS_3\PWS_3\bin\roslyn\System.Security.Principal.Windows.dll
+F:\7sem\ПВС\PWS_3\PWS_3\bin\roslyn\System.Text.Encoding.CodePages.dll
+F:\7sem\ПВС\PWS_3\PWS_3\bin\roslyn\System.ValueTuple.dll
+F:\7sem\ПВС\PWS_3\PWS_3\bin\roslyn\System.Xml.ReaderWriter.dll
+F:\7sem\ПВС\PWS_3\PWS_3\bin\roslyn\System.Xml.XmlDocument.dll
+F:\7sem\ПВС\PWS_3\PWS_3\bin\roslyn\System.Xml.XPath.dll
+F:\7sem\ПВС\PWS_3\PWS_3\bin\roslyn\System.Xml.XPath.XDocument.dll
+F:\7sem\ПВС\PWS_3\PWS_3\bin\roslyn\vbc.exe
+F:\7sem\ПВС\PWS_3\PWS_3\bin\roslyn\vbc.exe.config
+F:\7sem\ПВС\PWS_3\PWS_3\bin\roslyn\vbc.rsp
+F:\7sem\ПВС\PWS_3\PWS_3\bin\roslyn\VBCSCompiler.exe
+F:\7sem\ПВС\PWS_3\PWS_3\bin\roslyn\VBCSCompiler.exe.config
+F:\7sem\ПВС\PWS_3\PWS_3\bin\Antlr3.Runtime.dll
+F:\7sem\ПВС\PWS_3\PWS_3\bin\EntityFramework.dll
+F:\7sem\ПВС\PWS_3\PWS_3\bin\EntityFramework.SqlServer.dll
+F:\7sem\ПВС\PWS_3\PWS_3\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\7sem\ПВС\PWS_3\PWS_3\bin\Microsoft.Web.Infrastructure.dll
+F:\7sem\ПВС\PWS_3\PWS_3\bin\Newtonsoft.Json.dll
+F:\7sem\ПВС\PWS_3\PWS_3\bin\System.Net.Http.Formatting.dll
+F:\7sem\ПВС\PWS_3\PWS_3\bin\System.Web.Helpers.dll
+F:\7sem\ПВС\PWS_3\PWS_3\bin\System.Web.Http.dll
+F:\7sem\ПВС\PWS_3\PWS_3\bin\System.Web.Http.WebHost.dll
+F:\7sem\ПВС\PWS_3\PWS_3\bin\System.Web.Mvc.dll
+F:\7sem\ПВС\PWS_3\PWS_3\bin\System.Web.Optimization.dll
+F:\7sem\ПВС\PWS_3\PWS_3\bin\System.Web.Razor.dll
+F:\7sem\ПВС\PWS_3\PWS_3\bin\System.Web.WebPages.Deployment.dll
+F:\7sem\ПВС\PWS_3\PWS_3\bin\System.Web.WebPages.dll
+F:\7sem\ПВС\PWS_3\PWS_3\bin\System.Web.WebPages.Razor.dll
+F:\7sem\ПВС\PWS_3\PWS_3\bin\WebGrease.dll
+F:\7sem\ПВС\PWS_3\PWS_3\bin\EntityFramework.xml
+F:\7sem\ПВС\PWS_3\PWS_3\bin\EntityFramework.SqlServer.xml
+F:\7sem\ПВС\PWS_3\PWS_3\bin\Newtonsoft.Json.xml
+F:\7sem\ПВС\PWS_3\PWS_3\bin\System.Net.Http.Formatting.xml
+F:\7sem\ПВС\PWS_3\PWS_3\bin\System.Web.Helpers.xml
+F:\7sem\ПВС\PWS_3\PWS_3\bin\System.Web.Http.xml
+F:\7sem\ПВС\PWS_3\PWS_3\bin\System.Web.Http.WebHost.xml
+F:\7sem\ПВС\PWS_3\PWS_3\bin\System.Web.Mvc.xml
+F:\7sem\ПВС\PWS_3\PWS_3\bin\System.Web.Optimization.xml
+F:\7sem\ПВС\PWS_3\PWS_3\bin\System.Web.Razor.xml
+F:\7sem\ПВС\PWS_3\PWS_3\bin\System.Web.WebPages.xml
+F:\7sem\ПВС\PWS_3\PWS_3\bin\System.Web.WebPages.Deployment.xml
+F:\7sem\ПВС\PWS_3\PWS_3\bin\System.Web.WebPages.Razor.xml
+F:\7sem\ПВС\PWS_3\PWS_3\bin\Antlr3.Runtime.pdb
+F:\7sem\ПВС\PWS_3\PWS_3\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\7sem\ПВС\PWS_3\PWS_3\bin\ru\System.Net.Http.Formatting.resources.dll
+F:\7sem\ПВС\PWS_3\PWS_3\bin\ru\System.Web.Helpers.resources.dll
+F:\7sem\ПВС\PWS_3\PWS_3\bin\ru\System.Web.Http.resources.dll
+F:\7sem\ПВС\PWS_3\PWS_3\bin\ru\System.Web.Http.WebHost.resources.dll
+F:\7sem\ПВС\PWS_3\PWS_3\bin\ru\System.Web.Mvc.resources.dll
+F:\7sem\ПВС\PWS_3\PWS_3\bin\ru\System.Web.Optimization.resources.dll
+F:\7sem\ПВС\PWS_3\PWS_3\bin\ru\System.Web.Razor.resources.dll
+F:\7sem\ПВС\PWS_3\PWS_3\bin\ru\System.Web.WebPages.resources.dll
+F:\7sem\ПВС\PWS_3\PWS_3\bin\ru\System.Web.WebPages.Deployment.resources.dll
+F:\7sem\ПВС\PWS_3\PWS_3\bin\ru\System.Web.WebPages.Razor.resources.dll
+F:\7sem\ПВС\PWS_3\PWS_3\obj\Debug\PWS_3.csprojAssemblyReference.cache
+F:\7sem\ПВС\PWS_3\PWS_3\obj\Debug\PWS_3.csproj.CoreCompileInputs.cache
+F:\7sem\ПВС\PWS_3\PWS_3\obj\Debug\PWS_3.csproj.CopyComplete
+F:\7sem\ПВС\PWS_3\PWS_3\obj\Debug\PWS_3.dll
+F:\7sem\ПВС\PWS_3\PWS_3\obj\Debug\PWS_3.pdb
+D:\7sem\PWS\PWS_3\PWS_3\bin\PWS_3.dll.config
+D:\7sem\PWS\PWS_3\PWS_3\bin\PWS_3.dll
+D:\7sem\PWS\PWS_3\PWS_3\bin\PWS_3.pdb
+D:\7sem\PWS\PWS_3\PWS_3\bin\roslyn\csc.exe
+D:\7sem\PWS\PWS_3\PWS_3\bin\roslyn\csc.exe.config
+D:\7sem\PWS\PWS_3\PWS_3\bin\roslyn\csc.rsp
+D:\7sem\PWS\PWS_3\PWS_3\bin\roslyn\csi.exe
+D:\7sem\PWS\PWS_3\PWS_3\bin\roslyn\csi.exe.config
+D:\7sem\PWS\PWS_3\PWS_3\bin\roslyn\csi.rsp
+D:\7sem\PWS\PWS_3\PWS_3\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\7sem\PWS\PWS_3\PWS_3\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\7sem\PWS\PWS_3\PWS_3\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\7sem\PWS\PWS_3\PWS_3\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\7sem\PWS\PWS_3\PWS_3\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\7sem\PWS\PWS_3\PWS_3\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\7sem\PWS\PWS_3\PWS_3\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\7sem\PWS\PWS_3\PWS_3\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\7sem\PWS\PWS_3\PWS_3\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\7sem\PWS\PWS_3\PWS_3\bin\roslyn\Microsoft.Managed.Core.targets
+D:\7sem\PWS\PWS_3\PWS_3\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\7sem\PWS\PWS_3\PWS_3\bin\roslyn\System.AppContext.dll
+D:\7sem\PWS\PWS_3\PWS_3\bin\roslyn\System.Collections.Immutable.dll
+D:\7sem\PWS\PWS_3\PWS_3\bin\roslyn\System.Console.dll
+D:\7sem\PWS\PWS_3\PWS_3\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\7sem\PWS\PWS_3\PWS_3\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\7sem\PWS\PWS_3\PWS_3\bin\roslyn\System.IO.Compression.dll
+D:\7sem\PWS\PWS_3\PWS_3\bin\roslyn\System.IO.FileSystem.dll
+D:\7sem\PWS\PWS_3\PWS_3\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\7sem\PWS\PWS_3\PWS_3\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\7sem\PWS\PWS_3\PWS_3\bin\roslyn\System.IO.Pipes.dll
+D:\7sem\PWS\PWS_3\PWS_3\bin\roslyn\System.Reflection.Metadata.dll
+D:\7sem\PWS\PWS_3\PWS_3\bin\roslyn\System.Security.AccessControl.dll
+D:\7sem\PWS\PWS_3\PWS_3\bin\roslyn\System.Security.Claims.dll
+D:\7sem\PWS\PWS_3\PWS_3\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\7sem\PWS\PWS_3\PWS_3\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\7sem\PWS\PWS_3\PWS_3\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\7sem\PWS\PWS_3\PWS_3\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\7sem\PWS\PWS_3\PWS_3\bin\roslyn\System.Security.Principal.Windows.dll
+D:\7sem\PWS\PWS_3\PWS_3\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\7sem\PWS\PWS_3\PWS_3\bin\roslyn\System.ValueTuple.dll
+D:\7sem\PWS\PWS_3\PWS_3\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\7sem\PWS\PWS_3\PWS_3\bin\roslyn\System.Xml.XmlDocument.dll
+D:\7sem\PWS\PWS_3\PWS_3\bin\roslyn\System.Xml.XPath.dll
+D:\7sem\PWS\PWS_3\PWS_3\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\7sem\PWS\PWS_3\PWS_3\bin\roslyn\vbc.exe
+D:\7sem\PWS\PWS_3\PWS_3\bin\roslyn\vbc.exe.config
+D:\7sem\PWS\PWS_3\PWS_3\bin\roslyn\vbc.rsp
+D:\7sem\PWS\PWS_3\PWS_3\bin\roslyn\VBCSCompiler.exe
+D:\7sem\PWS\PWS_3\PWS_3\bin\roslyn\VBCSCompiler.exe.config
+D:\7sem\PWS\PWS_3\PWS_3\bin\Antlr3.Runtime.dll
+D:\7sem\PWS\PWS_3\PWS_3\bin\EntityFramework.dll
+D:\7sem\PWS\PWS_3\PWS_3\bin\EntityFramework.SqlServer.dll
+D:\7sem\PWS\PWS_3\PWS_3\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\7sem\PWS\PWS_3\PWS_3\bin\Microsoft.Web.Infrastructure.dll
+D:\7sem\PWS\PWS_3\PWS_3\bin\Newtonsoft.Json.dll
+D:\7sem\PWS\PWS_3\PWS_3\bin\System.Net.Http.Formatting.dll
+D:\7sem\PWS\PWS_3\PWS_3\bin\System.Web.Helpers.dll
+D:\7sem\PWS\PWS_3\PWS_3\bin\System.Web.Http.dll
+D:\7sem\PWS\PWS_3\PWS_3\bin\System.Web.Http.WebHost.dll
+D:\7sem\PWS\PWS_3\PWS_3\bin\System.Web.Mvc.dll
+D:\7sem\PWS\PWS_3\PWS_3\bin\System.Web.Optimization.dll
+D:\7sem\PWS\PWS_3\PWS_3\bin\System.Web.Razor.dll
+D:\7sem\PWS\PWS_3\PWS_3\bin\System.Web.WebPages.Deployment.dll
+D:\7sem\PWS\PWS_3\PWS_3\bin\System.Web.WebPages.dll
+D:\7sem\PWS\PWS_3\PWS_3\bin\System.Web.WebPages.Razor.dll
+D:\7sem\PWS\PWS_3\PWS_3\bin\WebGrease.dll
+D:\7sem\PWS\PWS_3\PWS_3\bin\EntityFramework.xml
+D:\7sem\PWS\PWS_3\PWS_3\bin\EntityFramework.SqlServer.xml
+D:\7sem\PWS\PWS_3\PWS_3\bin\Newtonsoft.Json.xml
+D:\7sem\PWS\PWS_3\PWS_3\bin\System.Net.Http.Formatting.xml
+D:\7sem\PWS\PWS_3\PWS_3\bin\System.Web.Helpers.xml
+D:\7sem\PWS\PWS_3\PWS_3\bin\System.Web.Http.xml
+D:\7sem\PWS\PWS_3\PWS_3\bin\System.Web.Http.WebHost.xml
+D:\7sem\PWS\PWS_3\PWS_3\bin\System.Web.Mvc.xml
+D:\7sem\PWS\PWS_3\PWS_3\bin\System.Web.Optimization.xml
+D:\7sem\PWS\PWS_3\PWS_3\bin\System.Web.Razor.xml
+D:\7sem\PWS\PWS_3\PWS_3\bin\System.Web.WebPages.xml
+D:\7sem\PWS\PWS_3\PWS_3\bin\System.Web.WebPages.Deployment.xml
+D:\7sem\PWS\PWS_3\PWS_3\bin\System.Web.WebPages.Razor.xml
+D:\7sem\PWS\PWS_3\PWS_3\bin\Antlr3.Runtime.pdb
+D:\7sem\PWS\PWS_3\PWS_3\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\7sem\PWS\PWS_3\PWS_3\bin\ru\System.Net.Http.Formatting.resources.dll
+D:\7sem\PWS\PWS_3\PWS_3\bin\ru\System.Web.Helpers.resources.dll
+D:\7sem\PWS\PWS_3\PWS_3\bin\ru\System.Web.Http.resources.dll
+D:\7sem\PWS\PWS_3\PWS_3\bin\ru\System.Web.Http.WebHost.resources.dll
+D:\7sem\PWS\PWS_3\PWS_3\bin\ru\System.Web.Mvc.resources.dll
+D:\7sem\PWS\PWS_3\PWS_3\bin\ru\System.Web.Optimization.resources.dll
+D:\7sem\PWS\PWS_3\PWS_3\bin\ru\System.Web.Razor.resources.dll
+D:\7sem\PWS\PWS_3\PWS_3\bin\ru\System.Web.WebPages.resources.dll
+D:\7sem\PWS\PWS_3\PWS_3\bin\ru\System.Web.WebPages.Deployment.resources.dll
+D:\7sem\PWS\PWS_3\PWS_3\bin\ru\System.Web.WebPages.Razor.resources.dll
+D:\7sem\PWS\PWS_3\PWS_3\obj\Debug\PWS_3.csprojAssemblyReference.cache
+D:\7sem\PWS\PWS_3\PWS_3\obj\Debug\PWS_3.csproj.CoreCompileInputs.cache
+D:\7sem\PWS\PWS_3\PWS_3\obj\Debug\PWS_3.csproj.CopyComplete
+D:\7sem\PWS\PWS_3\PWS_3\obj\Debug\PWS_3.dll
+D:\7sem\PWS\PWS_3\PWS_3\obj\Debug\PWS_3.pdb

@@ -1,0 +1,13 @@
+D:\7sem\PWS\PWS_7\PWS_7_Host\bin\Debug\PWS_7_Host.exe.config
+D:\7sem\PWS\PWS_7\PWS_7_Host\bin\Debug\PWS_7_Host.exe
+D:\7sem\PWS\PWS_7\PWS_7_Host\bin\Debug\PWS_7_Host.pdb
+D:\7sem\PWS\PWS_7\PWS_7_Host\bin\Debug\PWS_7.dll
+D:\7sem\PWS\PWS_7\PWS_7_Host\bin\Debug\Newtonsoft.Json.dll
+D:\7sem\PWS\PWS_7\PWS_7_Host\bin\Debug\PWS_7.dll.config
+D:\7sem\PWS\PWS_7\PWS_7_Host\bin\Debug\Newtonsoft.Json.xml
+D:\7sem\PWS\PWS_7\PWS_7_Host\obj\Debug\PWS_7_Host.csproj.CoreCompileInputs.cache
+D:\7sem\PWS\PWS_7\PWS_7_Host\obj\Debug\PWS_7_Host.csproj.CopyComplete
+D:\7sem\PWS\PWS_7\PWS_7_Host\obj\Debug\PWS_7_Host.exe
+D:\7sem\PWS\PWS_7\PWS_7_Host\obj\Debug\PWS_7_Host.pdb
+D:\7sem\PWS\PWS_7\PWS_7_Host\bin\Debug\PWS_7.pdb
+D:\7sem\PWS\PWS_7\PWS_7_Host\obj\Debug\PWS_7_Host.csprojAssemblyReference.cache

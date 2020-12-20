@@ -1,0 +1,246 @@
+E:\study4course\PWS\PWS\PWS_4\PWS_4_WebForm\bin\PWS_4_WebForm.dll.config
+E:\study4course\PWS\PWS\PWS_4\PWS_4_WebForm\bin\PWS_4_WebForm.dll
+E:\study4course\PWS\PWS\PWS_4\PWS_4_WebForm\bin\PWS_4_WebForm.pdb
+E:\study4course\PWS\PWS\PWS_4\PWS_4_WebForm\bin\Antlr3.Runtime.dll
+E:\study4course\PWS\PWS\PWS_4\PWS_4_WebForm\bin\AspNet.ScriptManager.bootstrap.dll
+E:\study4course\PWS\PWS\PWS_4\PWS_4_WebForm\bin\AspNet.ScriptManager.jQuery.dll
+E:\study4course\PWS\PWS\PWS_4\PWS_4_WebForm\bin\Microsoft.AspNet.FriendlyUrls.dll
+E:\study4course\PWS\PWS\PWS_4\PWS_4_WebForm\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+E:\study4course\PWS\PWS\PWS_4\PWS_4_WebForm\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\study4course\PWS\PWS\PWS_4\PWS_4_WebForm\bin\Microsoft.ScriptManager.MSAjax.dll
+E:\study4course\PWS\PWS\PWS_4\PWS_4_WebForm\bin\Microsoft.ScriptManager.WebForms.dll
+E:\study4course\PWS\PWS\PWS_4\PWS_4_WebForm\bin\Microsoft.Web.Infrastructure.dll
+E:\study4course\PWS\PWS\PWS_4\PWS_4_WebForm\bin\Newtonsoft.Json.dll
+E:\study4course\PWS\PWS\PWS_4\PWS_4_WebForm\bin\System.Web.Optimization.dll
+E:\study4course\PWS\PWS\PWS_4\PWS_4_WebForm\bin\WebGrease.dll
+E:\study4course\PWS\PWS\PWS_4\PWS_4_WebForm\bin\System.Web.Optimization.xml
+E:\study4course\PWS\PWS\PWS_4\PWS_4_WebForm\bin\Newtonsoft.Json.xml
+E:\study4course\PWS\PWS\PWS_4\PWS_4_WebForm\bin\Antlr3.Runtime.pdb
+E:\study4course\PWS\PWS\PWS_4\PWS_4_WebForm\bin\Microsoft.AspNet.FriendlyUrls.xml
+E:\study4course\PWS\PWS\PWS_4\PWS_4_WebForm\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\study4course\PWS\PWS\PWS_4\PWS_4_WebForm\bin\ru\System.Web.Optimization.resources.dll
+E:\study4course\PWS\PWS\PWS_4\PWS_4_WebForm\bin\ru\Microsoft.AspNet.FriendlyUrls.resources.dll
+E:\study4course\PWS\PWS\PWS_4\PWS_4_WebForm\obj\Debug\PWS_4_WebForm.csprojAssemblyReference.cache
+E:\study4course\PWS\PWS\PWS_4\PWS_4_WebForm\obj\Debug\PWS_4_WebForm.csproj.CoreCompileInputs.cache
+E:\study4course\PWS\PWS\PWS_4\PWS_4_WebForm\obj\Debug\PWS_4_WebForm.csproj.CopyComplete
+E:\study4course\PWS\PWS\PWS_4\PWS_4_WebForm\obj\Debug\PWS_4_WebForm.dll
+E:\study4course\PWS\PWS\PWS_4\PWS_4_WebForm\obj\Debug\PWS_4_WebForm.pdb
+C:\Users\Vokamrecom-PC\Desktop\PWS_4\PWS_4_WebForm\bin\PWS_4_WebForm.dll.config
+C:\Users\Vokamrecom-PC\Desktop\PWS_4\PWS_4_WebForm\bin\PWS_4_WebForm.dll
+C:\Users\Vokamrecom-PC\Desktop\PWS_4\PWS_4_WebForm\bin\PWS_4_WebForm.pdb
+C:\Users\Vokamrecom-PC\Desktop\PWS_4\PWS_4_WebForm\bin\roslyn\csc.exe
+C:\Users\Vokamrecom-PC\Desktop\PWS_4\PWS_4_WebForm\bin\roslyn\csc.exe.config
+C:\Users\Vokamrecom-PC\Desktop\PWS_4\PWS_4_WebForm\bin\roslyn\csc.rsp
+C:\Users\Vokamrecom-PC\Desktop\PWS_4\PWS_4_WebForm\bin\roslyn\csi.exe
+C:\Users\Vokamrecom-PC\Desktop\PWS_4\PWS_4_WebForm\bin\roslyn\csi.exe.config
+C:\Users\Vokamrecom-PC\Desktop\PWS_4\PWS_4_WebForm\bin\roslyn\csi.rsp
+C:\Users\Vokamrecom-PC\Desktop\PWS_4\PWS_4_WebForm\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Vokamrecom-PC\Desktop\PWS_4\PWS_4_WebForm\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Vokamrecom-PC\Desktop\PWS_4\PWS_4_WebForm\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Vokamrecom-PC\Desktop\PWS_4\PWS_4_WebForm\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Vokamrecom-PC\Desktop\PWS_4\PWS_4_WebForm\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Vokamrecom-PC\Desktop\PWS_4\PWS_4_WebForm\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Vokamrecom-PC\Desktop\PWS_4\PWS_4_WebForm\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Vokamrecom-PC\Desktop\PWS_4\PWS_4_WebForm\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Vokamrecom-PC\Desktop\PWS_4\PWS_4_WebForm\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Vokamrecom-PC\Desktop\PWS_4\PWS_4_WebForm\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Vokamrecom-PC\Desktop\PWS_4\PWS_4_WebForm\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Vokamrecom-PC\Desktop\PWS_4\PWS_4_WebForm\bin\roslyn\System.AppContext.dll
+C:\Users\Vokamrecom-PC\Desktop\PWS_4\PWS_4_WebForm\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Vokamrecom-PC\Desktop\PWS_4\PWS_4_WebForm\bin\roslyn\System.Console.dll
+C:\Users\Vokamrecom-PC\Desktop\PWS_4\PWS_4_WebForm\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Vokamrecom-PC\Desktop\PWS_4\PWS_4_WebForm\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Vokamrecom-PC\Desktop\PWS_4\PWS_4_WebForm\bin\roslyn\System.IO.Compression.dll
+C:\Users\Vokamrecom-PC\Desktop\PWS_4\PWS_4_WebForm\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Vokamrecom-PC\Desktop\PWS_4\PWS_4_WebForm\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Vokamrecom-PC\Desktop\PWS_4\PWS_4_WebForm\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Vokamrecom-PC\Desktop\PWS_4\PWS_4_WebForm\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Vokamrecom-PC\Desktop\PWS_4\PWS_4_WebForm\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Vokamrecom-PC\Desktop\PWS_4\PWS_4_WebForm\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Vokamrecom-PC\Desktop\PWS_4\PWS_4_WebForm\bin\roslyn\System.Security.Claims.dll
+C:\Users\Vokamrecom-PC\Desktop\PWS_4\PWS_4_WebForm\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Vokamrecom-PC\Desktop\PWS_4\PWS_4_WebForm\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Vokamrecom-PC\Desktop\PWS_4\PWS_4_WebForm\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Vokamrecom-PC\Desktop\PWS_4\PWS_4_WebForm\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Vokamrecom-PC\Desktop\PWS_4\PWS_4_WebForm\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Vokamrecom-PC\Desktop\PWS_4\PWS_4_WebForm\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Vokamrecom-PC\Desktop\PWS_4\PWS_4_WebForm\bin\roslyn\System.ValueTuple.dll
+C:\Users\Vokamrecom-PC\Desktop\PWS_4\PWS_4_WebForm\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Vokamrecom-PC\Desktop\PWS_4\PWS_4_WebForm\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Vokamrecom-PC\Desktop\PWS_4\PWS_4_WebForm\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Vokamrecom-PC\Desktop\PWS_4\PWS_4_WebForm\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Vokamrecom-PC\Desktop\PWS_4\PWS_4_WebForm\bin\roslyn\vbc.exe
+C:\Users\Vokamrecom-PC\Desktop\PWS_4\PWS_4_WebForm\bin\roslyn\vbc.exe.config
+C:\Users\Vokamrecom-PC\Desktop\PWS_4\PWS_4_WebForm\bin\roslyn\vbc.rsp
+C:\Users\Vokamrecom-PC\Desktop\PWS_4\PWS_4_WebForm\bin\roslyn\VBCSCompiler.exe
+C:\Users\Vokamrecom-PC\Desktop\PWS_4\PWS_4_WebForm\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Vokamrecom-PC\Desktop\PWS_4\PWS_4_WebForm\bin\Antlr3.Runtime.dll
+C:\Users\Vokamrecom-PC\Desktop\PWS_4\PWS_4_WebForm\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\Vokamrecom-PC\Desktop\PWS_4\PWS_4_WebForm\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\Vokamrecom-PC\Desktop\PWS_4\PWS_4_WebForm\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\Vokamrecom-PC\Desktop\PWS_4\PWS_4_WebForm\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\Vokamrecom-PC\Desktop\PWS_4\PWS_4_WebForm\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Vokamrecom-PC\Desktop\PWS_4\PWS_4_WebForm\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\Vokamrecom-PC\Desktop\PWS_4\PWS_4_WebForm\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\Vokamrecom-PC\Desktop\PWS_4\PWS_4_WebForm\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Vokamrecom-PC\Desktop\PWS_4\PWS_4_WebForm\bin\Newtonsoft.Json.dll
+C:\Users\Vokamrecom-PC\Desktop\PWS_4\PWS_4_WebForm\bin\System.Web.Optimization.dll
+C:\Users\Vokamrecom-PC\Desktop\PWS_4\PWS_4_WebForm\bin\WebGrease.dll
+C:\Users\Vokamrecom-PC\Desktop\PWS_4\PWS_4_WebForm\bin\System.Web.Optimization.xml
+C:\Users\Vokamrecom-PC\Desktop\PWS_4\PWS_4_WebForm\bin\Newtonsoft.Json.xml
+C:\Users\Vokamrecom-PC\Desktop\PWS_4\PWS_4_WebForm\bin\Antlr3.Runtime.pdb
+C:\Users\Vokamrecom-PC\Desktop\PWS_4\PWS_4_WebForm\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\Vokamrecom-PC\Desktop\PWS_4\PWS_4_WebForm\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Vokamrecom-PC\Desktop\PWS_4\PWS_4_WebForm\bin\ru\System.Web.Optimization.resources.dll
+C:\Users\Vokamrecom-PC\Desktop\PWS_4\PWS_4_WebForm\bin\ru\Microsoft.AspNet.FriendlyUrls.resources.dll
+C:\Users\Vokamrecom-PC\Desktop\PWS_4\PWS_4_WebForm\obj\Debug\PWS_4_WebForm.csprojAssemblyReference.cache
+C:\Users\Vokamrecom-PC\Desktop\PWS_4\PWS_4_WebForm\obj\Debug\PWS_4_WebForm.csproj.CoreCompileInputs.cache
+C:\Users\Vokamrecom-PC\Desktop\PWS_4\PWS_4_WebForm\obj\Debug\PWS_4_WebForm.csproj.CopyComplete
+C:\Users\Vokamrecom-PC\Desktop\PWS_4\PWS_4_WebForm\obj\Debug\PWS_4_WebForm.dll
+C:\Users\Vokamrecom-PC\Desktop\PWS_4\PWS_4_WebForm\obj\Debug\PWS_4_WebForm.pdb
+E:\Program Files\PWS\PWS_4\PWS_4_WebForm\bin\PWS_4_WebForm.dll.config
+E:\Program Files\PWS\PWS_4\PWS_4_WebForm\bin\PWS_4_WebForm.dll
+E:\Program Files\PWS\PWS_4\PWS_4_WebForm\bin\PWS_4_WebForm.pdb
+E:\Program Files\PWS\PWS_4\PWS_4_WebForm\bin\roslyn\csc.exe
+E:\Program Files\PWS\PWS_4\PWS_4_WebForm\bin\roslyn\csc.exe.config
+E:\Program Files\PWS\PWS_4\PWS_4_WebForm\bin\roslyn\csc.rsp
+E:\Program Files\PWS\PWS_4\PWS_4_WebForm\bin\roslyn\csi.exe
+E:\Program Files\PWS\PWS_4\PWS_4_WebForm\bin\roslyn\csi.exe.config
+E:\Program Files\PWS\PWS_4\PWS_4_WebForm\bin\roslyn\csi.rsp
+E:\Program Files\PWS\PWS_4\PWS_4_WebForm\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Program Files\PWS\PWS_4\PWS_4_WebForm\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Program Files\PWS\PWS_4\PWS_4_WebForm\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\Program Files\PWS\PWS_4\PWS_4_WebForm\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Program Files\PWS\PWS_4\PWS_4_WebForm\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\Program Files\PWS\PWS_4\PWS_4_WebForm\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Program Files\PWS\PWS_4\PWS_4_WebForm\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Program Files\PWS\PWS_4\PWS_4_WebForm\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\Program Files\PWS\PWS_4\PWS_4_WebForm\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\Program Files\PWS\PWS_4\PWS_4_WebForm\bin\roslyn\Microsoft.Managed.Core.targets
+E:\Program Files\PWS\PWS_4\PWS_4_WebForm\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Program Files\PWS\PWS_4\PWS_4_WebForm\bin\roslyn\System.AppContext.dll
+E:\Program Files\PWS\PWS_4\PWS_4_WebForm\bin\roslyn\System.Collections.Immutable.dll
+E:\Program Files\PWS\PWS_4\PWS_4_WebForm\bin\roslyn\System.Console.dll
+E:\Program Files\PWS\PWS_4\PWS_4_WebForm\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\Program Files\PWS\PWS_4\PWS_4_WebForm\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\Program Files\PWS\PWS_4\PWS_4_WebForm\bin\roslyn\System.IO.Compression.dll
+E:\Program Files\PWS\PWS_4\PWS_4_WebForm\bin\roslyn\System.IO.FileSystem.dll
+E:\Program Files\PWS\PWS_4\PWS_4_WebForm\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\Program Files\PWS\PWS_4\PWS_4_WebForm\bin\roslyn\System.IO.Pipes.AccessControl.dll
+E:\Program Files\PWS\PWS_4\PWS_4_WebForm\bin\roslyn\System.IO.Pipes.dll
+E:\Program Files\PWS\PWS_4\PWS_4_WebForm\bin\roslyn\System.Reflection.Metadata.dll
+E:\Program Files\PWS\PWS_4\PWS_4_WebForm\bin\roslyn\System.Security.AccessControl.dll
+E:\Program Files\PWS\PWS_4\PWS_4_WebForm\bin\roslyn\System.Security.Claims.dll
+E:\Program Files\PWS\PWS_4\PWS_4_WebForm\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\Program Files\PWS\PWS_4\PWS_4_WebForm\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\Program Files\PWS\PWS_4\PWS_4_WebForm\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\Program Files\PWS\PWS_4\PWS_4_WebForm\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\Program Files\PWS\PWS_4\PWS_4_WebForm\bin\roslyn\System.Security.Principal.Windows.dll
+E:\Program Files\PWS\PWS_4\PWS_4_WebForm\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\Program Files\PWS\PWS_4\PWS_4_WebForm\bin\roslyn\System.ValueTuple.dll
+E:\Program Files\PWS\PWS_4\PWS_4_WebForm\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\Program Files\PWS\PWS_4\PWS_4_WebForm\bin\roslyn\System.Xml.XmlDocument.dll
+E:\Program Files\PWS\PWS_4\PWS_4_WebForm\bin\roslyn\System.Xml.XPath.dll
+E:\Program Files\PWS\PWS_4\PWS_4_WebForm\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\Program Files\PWS\PWS_4\PWS_4_WebForm\bin\roslyn\vbc.exe
+E:\Program Files\PWS\PWS_4\PWS_4_WebForm\bin\roslyn\vbc.exe.config
+E:\Program Files\PWS\PWS_4\PWS_4_WebForm\bin\roslyn\vbc.rsp
+E:\Program Files\PWS\PWS_4\PWS_4_WebForm\bin\roslyn\VBCSCompiler.exe
+E:\Program Files\PWS\PWS_4\PWS_4_WebForm\bin\roslyn\VBCSCompiler.exe.config
+E:\Program Files\PWS\PWS_4\PWS_4_WebForm\bin\Antlr3.Runtime.dll
+E:\Program Files\PWS\PWS_4\PWS_4_WebForm\bin\AspNet.ScriptManager.bootstrap.dll
+E:\Program Files\PWS\PWS_4\PWS_4_WebForm\bin\AspNet.ScriptManager.jQuery.dll
+E:\Program Files\PWS\PWS_4\PWS_4_WebForm\bin\Microsoft.AspNet.FriendlyUrls.dll
+E:\Program Files\PWS\PWS_4\PWS_4_WebForm\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+E:\Program Files\PWS\PWS_4\PWS_4_WebForm\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Program Files\PWS\PWS_4\PWS_4_WebForm\bin\Microsoft.ScriptManager.MSAjax.dll
+E:\Program Files\PWS\PWS_4\PWS_4_WebForm\bin\Microsoft.ScriptManager.WebForms.dll
+E:\Program Files\PWS\PWS_4\PWS_4_WebForm\bin\Microsoft.Web.Infrastructure.dll
+E:\Program Files\PWS\PWS_4\PWS_4_WebForm\bin\Newtonsoft.Json.dll
+E:\Program Files\PWS\PWS_4\PWS_4_WebForm\bin\System.Web.Optimization.dll
+E:\Program Files\PWS\PWS_4\PWS_4_WebForm\bin\WebGrease.dll
+E:\Program Files\PWS\PWS_4\PWS_4_WebForm\bin\System.Web.Optimization.xml
+E:\Program Files\PWS\PWS_4\PWS_4_WebForm\bin\Newtonsoft.Json.xml
+E:\Program Files\PWS\PWS_4\PWS_4_WebForm\bin\Antlr3.Runtime.pdb
+E:\Program Files\PWS\PWS_4\PWS_4_WebForm\bin\Microsoft.AspNet.FriendlyUrls.xml
+E:\Program Files\PWS\PWS_4\PWS_4_WebForm\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Program Files\PWS\PWS_4\PWS_4_WebForm\bin\ru\System.Web.Optimization.resources.dll
+E:\Program Files\PWS\PWS_4\PWS_4_WebForm\bin\ru\Microsoft.AspNet.FriendlyUrls.resources.dll
+E:\Program Files\PWS\PWS_4\PWS_4_WebForm\obj\Debug\PWS_4_WebForm.csprojAssemblyReference.cache
+E:\Program Files\PWS\PWS_4\PWS_4_WebForm\obj\Debug\PWS_4_WebForm.csproj.CoreCompileInputs.cache
+E:\Program Files\PWS\PWS_4\PWS_4_WebForm\obj\Debug\PWS_4_WebForm.csproj.CopyComplete
+E:\Program Files\PWS\PWS_4\PWS_4_WebForm\obj\Debug\PWS_4_WebForm.dll
+E:\Program Files\PWS\PWS_4\PWS_4_WebForm\obj\Debug\PWS_4_WebForm.pdb
+D:\7sem\PWS\PWS_4\PWS_4_WebForm\bin\PWS_4_WebForm.dll.config
+D:\7sem\PWS\PWS_4\PWS_4_WebForm\bin\PWS_4_WebForm.dll
+D:\7sem\PWS\PWS_4\PWS_4_WebForm\bin\PWS_4_WebForm.pdb
+D:\7sem\PWS\PWS_4\PWS_4_WebForm\bin\roslyn\csc.exe
+D:\7sem\PWS\PWS_4\PWS_4_WebForm\bin\roslyn\csc.exe.config
+D:\7sem\PWS\PWS_4\PWS_4_WebForm\bin\roslyn\csc.rsp
+D:\7sem\PWS\PWS_4\PWS_4_WebForm\bin\roslyn\csi.exe
+D:\7sem\PWS\PWS_4\PWS_4_WebForm\bin\roslyn\csi.exe.config
+D:\7sem\PWS\PWS_4\PWS_4_WebForm\bin\roslyn\csi.rsp
+D:\7sem\PWS\PWS_4\PWS_4_WebForm\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\7sem\PWS\PWS_4\PWS_4_WebForm\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\7sem\PWS\PWS_4\PWS_4_WebForm\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\7sem\PWS\PWS_4\PWS_4_WebForm\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\7sem\PWS\PWS_4\PWS_4_WebForm\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\7sem\PWS\PWS_4\PWS_4_WebForm\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\7sem\PWS\PWS_4\PWS_4_WebForm\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\7sem\PWS\PWS_4\PWS_4_WebForm\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\7sem\PWS\PWS_4\PWS_4_WebForm\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\7sem\PWS\PWS_4\PWS_4_WebForm\bin\roslyn\Microsoft.Managed.Core.targets
+D:\7sem\PWS\PWS_4\PWS_4_WebForm\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\7sem\PWS\PWS_4\PWS_4_WebForm\bin\roslyn\System.AppContext.dll
+D:\7sem\PWS\PWS_4\PWS_4_WebForm\bin\roslyn\System.Collections.Immutable.dll
+D:\7sem\PWS\PWS_4\PWS_4_WebForm\bin\roslyn\System.Console.dll
+D:\7sem\PWS\PWS_4\PWS_4_WebForm\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\7sem\PWS\PWS_4\PWS_4_WebForm\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\7sem\PWS\PWS_4\PWS_4_WebForm\bin\roslyn\System.IO.Compression.dll
+D:\7sem\PWS\PWS_4\PWS_4_WebForm\bin\roslyn\System.IO.FileSystem.dll
+D:\7sem\PWS\PWS_4\PWS_4_WebForm\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\7sem\PWS\PWS_4\PWS_4_WebForm\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\7sem\PWS\PWS_4\PWS_4_WebForm\bin\roslyn\System.IO.Pipes.dll
+D:\7sem\PWS\PWS_4\PWS_4_WebForm\bin\roslyn\System.Reflection.Metadata.dll
+D:\7sem\PWS\PWS_4\PWS_4_WebForm\bin\roslyn\System.Security.AccessControl.dll
+D:\7sem\PWS\PWS_4\PWS_4_WebForm\bin\roslyn\System.Security.Claims.dll
+D:\7sem\PWS\PWS_4\PWS_4_WebForm\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\7sem\PWS\PWS_4\PWS_4_WebForm\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\7sem\PWS\PWS_4\PWS_4_WebForm\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\7sem\PWS\PWS_4\PWS_4_WebForm\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\7sem\PWS\PWS_4\PWS_4_WebForm\bin\roslyn\System.Security.Principal.Windows.dll
+D:\7sem\PWS\PWS_4\PWS_4_WebForm\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\7sem\PWS\PWS_4\PWS_4_WebForm\bin\roslyn\System.ValueTuple.dll
+D:\7sem\PWS\PWS_4\PWS_4_WebForm\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\7sem\PWS\PWS_4\PWS_4_WebForm\bin\roslyn\System.Xml.XmlDocument.dll
+D:\7sem\PWS\PWS_4\PWS_4_WebForm\bin\roslyn\System.Xml.XPath.dll
+D:\7sem\PWS\PWS_4\PWS_4_WebForm\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\7sem\PWS\PWS_4\PWS_4_WebForm\bin\roslyn\vbc.exe
+D:\7sem\PWS\PWS_4\PWS_4_WebForm\bin\roslyn\vbc.exe.config
+D:\7sem\PWS\PWS_4\PWS_4_WebForm\bin\roslyn\vbc.rsp
+D:\7sem\PWS\PWS_4\PWS_4_WebForm\bin\roslyn\VBCSCompiler.exe
+D:\7sem\PWS\PWS_4\PWS_4_WebForm\bin\roslyn\VBCSCompiler.exe.config
+D:\7sem\PWS\PWS_4\PWS_4_WebForm\bin\Antlr3.Runtime.dll
+D:\7sem\PWS\PWS_4\PWS_4_WebForm\bin\AspNet.ScriptManager.bootstrap.dll
+D:\7sem\PWS\PWS_4\PWS_4_WebForm\bin\AspNet.ScriptManager.jQuery.dll
+D:\7sem\PWS\PWS_4\PWS_4_WebForm\bin\Microsoft.AspNet.FriendlyUrls.dll
+D:\7sem\PWS\PWS_4\PWS_4_WebForm\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+D:\7sem\PWS\PWS_4\PWS_4_WebForm\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\7sem\PWS\PWS_4\PWS_4_WebForm\bin\Microsoft.ScriptManager.MSAjax.dll
+D:\7sem\PWS\PWS_4\PWS_4_WebForm\bin\Microsoft.ScriptManager.WebForms.dll
+D:\7sem\PWS\PWS_4\PWS_4_WebForm\bin\Microsoft.Web.Infrastructure.dll
+D:\7sem\PWS\PWS_4\PWS_4_WebForm\bin\Newtonsoft.Json.dll
+D:\7sem\PWS\PWS_4\PWS_4_WebForm\bin\System.Web.Optimization.dll
+D:\7sem\PWS\PWS_4\PWS_4_WebForm\bin\WebGrease.dll
+D:\7sem\PWS\PWS_4\PWS_4_WebForm\bin\System.Web.Optimization.xml
+D:\7sem\PWS\PWS_4\PWS_4_WebForm\bin\Newtonsoft.Json.xml
+D:\7sem\PWS\PWS_4\PWS_4_WebForm\bin\Antlr3.Runtime.pdb
+D:\7sem\PWS\PWS_4\PWS_4_WebForm\bin\Microsoft.AspNet.FriendlyUrls.xml
+D:\7sem\PWS\PWS_4\PWS_4_WebForm\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\7sem\PWS\PWS_4\PWS_4_WebForm\bin\ru\System.Web.Optimization.resources.dll
+D:\7sem\PWS\PWS_4\PWS_4_WebForm\bin\ru\Microsoft.AspNet.FriendlyUrls.resources.dll
+D:\7sem\PWS\PWS_4\PWS_4_WebForm\obj\Debug\PWS_4_WebForm.csprojAssemblyReference.cache
+D:\7sem\PWS\PWS_4\PWS_4_WebForm\obj\Debug\PWS_4_WebForm.csproj.CoreCompileInputs.cache
+D:\7sem\PWS\PWS_4\PWS_4_WebForm\obj\Debug\PWS_4_WebForm.csproj.CopyComplete
+D:\7sem\PWS\PWS_4\PWS_4_WebForm\obj\Debug\PWS_4_WebForm.dll
+D:\7sem\PWS\PWS_4\PWS_4_WebForm\obj\Debug\PWS_4_WebForm.pdb
